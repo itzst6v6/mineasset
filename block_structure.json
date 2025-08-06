@@ -1,1 +1,6018 @@
-
+{
+  "blocks": {
+    "100001_wheat_stage_0.png": {
+      "name": "100001 Wheat Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100001_wheat_stage_0.png",
+      "tags": [
+        "100001",
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "100001_wheat_stage_1.png": {
+      "name": "100001 Wheat Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100001_wheat_stage_1.png",
+      "tags": [
+        "100001",
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "100001_wheat_stage_2.png": {
+      "name": "100001 Wheat Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100001_wheat_stage_2.png",
+      "tags": [
+        "100001",
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "100001_wheat_stage_3.png": {
+      "name": "100001 Wheat Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100001_wheat_stage_3.png",
+      "tags": [
+        "100001",
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "100001_wheat_stage_4.png": {
+      "name": "100001 Wheat Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100001_wheat_stage_4.png",
+      "tags": [
+        "100001",
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "100001_wheat_stage_5.png": {
+      "name": "100001 Wheat Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100001_wheat_stage_5.png",
+      "tags": [
+        "100001",
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "100002_corn_stage_0.png": {
+      "name": "100002 Corn Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100002_corn_stage_0.png",
+      "tags": [
+        "100002",
+        "corn",
+        "stage",
+        "crop"
+      ]
+    },
+    "100002_corn_stage_1.png": {
+      "name": "100002 Corn Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100002_corn_stage_1.png",
+      "tags": [
+        "100002",
+        "corn",
+        "stage",
+        "crop"
+      ]
+    },
+    "100002_corn_stage_2.png": {
+      "name": "100002 Corn Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100002_corn_stage_2.png",
+      "tags": [
+        "100002",
+        "corn",
+        "stage",
+        "crop"
+      ]
+    },
+    "100002_corn_stage_3.png": {
+      "name": "100002 Corn Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100002_corn_stage_3.png",
+      "tags": [
+        "100002",
+        "corn",
+        "stage",
+        "crop"
+      ]
+    },
+    "100002_corn_stage_4.png": {
+      "name": "100002 Corn Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100002_corn_stage_4.png",
+      "tags": [
+        "100002",
+        "corn",
+        "stage",
+        "crop"
+      ]
+    },
+    "100002_corn_stage_5.png": {
+      "name": "100002 Corn Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100002_corn_stage_5.png",
+      "tags": [
+        "100002",
+        "corn",
+        "stage",
+        "crop"
+      ]
+    },
+    "100003_carrots_stage_0.png": {
+      "name": "100003 Carrots Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100003_carrots_stage_0.png",
+      "tags": [
+        "100003",
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "100003_carrots_stage_1.png": {
+      "name": "100003 Carrots Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100003_carrots_stage_1.png",
+      "tags": [
+        "100003",
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "100003_carrots_stage_2.png": {
+      "name": "100003 Carrots Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100003_carrots_stage_2.png",
+      "tags": [
+        "100003",
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "100003_carrots_stage_3.png": {
+      "name": "100003 Carrots Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100003_carrots_stage_3.png",
+      "tags": [
+        "100003",
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "100003_carrots_stage_4.png": {
+      "name": "100003 Carrots Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100003_carrots_stage_4.png",
+      "tags": [
+        "100003",
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "100003_carrots_stage_5.png": {
+      "name": "100003 Carrots Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100003_carrots_stage_5.png",
+      "tags": [
+        "100003",
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "100004_sugar_cane_stage_0.png": {
+      "name": "100004 Sugar Cane Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100004_sugar_cane_stage_0.png",
+      "tags": [
+        "100004",
+        "sugar",
+        "cane",
+        "stage",
+        "crop"
+      ]
+    },
+    "100004_sugar_cane_stage_1.png": {
+      "name": "100004 Sugar Cane Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100004_sugar_cane_stage_1.png",
+      "tags": [
+        "100004",
+        "sugar",
+        "cane",
+        "stage",
+        "crop"
+      ]
+    },
+    "100004_sugar_cane_stage_2.png": {
+      "name": "100004 Sugar Cane Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100004_sugar_cane_stage_2.png",
+      "tags": [
+        "100004",
+        "sugar",
+        "cane",
+        "stage",
+        "crop"
+      ]
+    },
+    "100004_sugar_cane_stage_3.png": {
+      "name": "100004 Sugar Cane Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100004_sugar_cane_stage_3.png",
+      "tags": [
+        "100004",
+        "sugar",
+        "cane",
+        "stage",
+        "crop"
+      ]
+    },
+    "100004_sugar_cane_stage_4.png": {
+      "name": "100004 Sugar Cane Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100004_sugar_cane_stage_4.png",
+      "tags": [
+        "100004",
+        "sugar",
+        "cane",
+        "stage",
+        "crop"
+      ]
+    },
+    "100004_sugar_cane_stage_5.png": {
+      "name": "100004 Sugar Cane Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100004_sugar_cane_stage_5.png",
+      "tags": [
+        "100004",
+        "sugar",
+        "cane",
+        "stage",
+        "crop"
+      ]
+    },
+    "100005_cotton_stage_0.png": {
+      "name": "100005 Cotton Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100005_cotton_stage_0.png",
+      "tags": [
+        "100005",
+        "cotton",
+        "stage",
+        "crop"
+      ]
+    },
+    "100005_cotton_stage_1.png": {
+      "name": "100005 Cotton Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100005_cotton_stage_1.png",
+      "tags": [
+        "100005",
+        "cotton",
+        "stage",
+        "crop"
+      ]
+    },
+    "100005_cotton_stage_2.png": {
+      "name": "100005 Cotton Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100005_cotton_stage_2.png",
+      "tags": [
+        "100005",
+        "cotton",
+        "stage",
+        "crop"
+      ]
+    },
+    "100005_cotton_stage_3.png": {
+      "name": "100005 Cotton Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100005_cotton_stage_3.png",
+      "tags": [
+        "100005",
+        "cotton",
+        "stage",
+        "crop"
+      ]
+    },
+    "100005_cotton_stage_4.png": {
+      "name": "100005 Cotton Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100005_cotton_stage_4.png",
+      "tags": [
+        "100005",
+        "cotton",
+        "stage",
+        "crop"
+      ]
+    },
+    "100005_cotton_stage_5.png": {
+      "name": "100005 Cotton Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100005_cotton_stage_5.png",
+      "tags": [
+        "100005",
+        "cotton",
+        "stage",
+        "crop"
+      ]
+    },
+    "100006_strawberry_stage_0.png": {
+      "name": "100006 Strawberry Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100006_strawberry_stage_0.png",
+      "tags": [
+        "100006",
+        "strawberry",
+        "stage",
+        "crop"
+      ]
+    },
+    "100006_strawberry_stage_1.png": {
+      "name": "100006 Strawberry Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100006_strawberry_stage_1.png",
+      "tags": [
+        "100006",
+        "strawberry",
+        "stage",
+        "crop"
+      ]
+    },
+    "100006_strawberry_stage_2.png": {
+      "name": "100006 Strawberry Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100006_strawberry_stage_2.png",
+      "tags": [
+        "100006",
+        "strawberry",
+        "stage",
+        "crop"
+      ]
+    },
+    "100006_strawberry_stage_3.png": {
+      "name": "100006 Strawberry Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100006_strawberry_stage_3.png",
+      "tags": [
+        "100006",
+        "strawberry",
+        "stage",
+        "crop"
+      ]
+    },
+    "100006_strawberry_stage_4.png": {
+      "name": "100006 Strawberry Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100006_strawberry_stage_4.png",
+      "tags": [
+        "100006",
+        "strawberry",
+        "stage",
+        "crop"
+      ]
+    },
+    "100006_strawberry_stage_5.png": {
+      "name": "100006 Strawberry Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100006_strawberry_stage_5.png",
+      "tags": [
+        "100006",
+        "strawberry",
+        "stage",
+        "crop"
+      ]
+    },
+    "100007_tomato_stage_0.png": {
+      "name": "100007 Tomato Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100007_tomato_stage_0.png",
+      "tags": [
+        "100007",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "100007_tomato_stage_1.png": {
+      "name": "100007 Tomato Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100007_tomato_stage_1.png",
+      "tags": [
+        "100007",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "100007_tomato_stage_2.png": {
+      "name": "100007 Tomato Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100007_tomato_stage_2.png",
+      "tags": [
+        "100007",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "100007_tomato_stage_3.png": {
+      "name": "100007 Tomato Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100007_tomato_stage_3.png",
+      "tags": [
+        "100007",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "100007_tomato_stage_4.png": {
+      "name": "100007 Tomato Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100007_tomato_stage_4.png",
+      "tags": [
+        "100007",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "100007_tomato_stage_5.png": {
+      "name": "100007 Tomato Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100007_tomato_stage_5.png",
+      "tags": [
+        "100007",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "100008_pine_stage_0.png": {
+      "name": "100008 Pine Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100008_pine_stage_0.png",
+      "tags": [
+        "100008",
+        "pine",
+        "stage",
+        "crop"
+      ]
+    },
+    "100008_pine_stage_1.png": {
+      "name": "100008 Pine Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100008_pine_stage_1.png",
+      "tags": [
+        "100008",
+        "pine",
+        "stage",
+        "crop"
+      ]
+    },
+    "100008_pine_stage_2.png": {
+      "name": "100008 Pine Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100008_pine_stage_2.png",
+      "tags": [
+        "100008",
+        "pine",
+        "stage",
+        "crop"
+      ]
+    },
+    "100008_pine_stage_3.png": {
+      "name": "100008 Pine Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100008_pine_stage_3.png",
+      "tags": [
+        "100008",
+        "pine",
+        "stage",
+        "crop"
+      ]
+    },
+    "100008_pine_stage_4.png": {
+      "name": "100008 Pine Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100008_pine_stage_4.png",
+      "tags": [
+        "100008",
+        "pine",
+        "stage",
+        "crop"
+      ]
+    },
+    "100008_pine_stage_5.png": {
+      "name": "100008 Pine Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100008_pine_stage_5.png",
+      "tags": [
+        "100008",
+        "pine",
+        "stage",
+        "crop"
+      ]
+    },
+    "100009_potatoes_stage_0.png": {
+      "name": "100009 Potatoes Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100009_potatoes_stage_0.png",
+      "tags": [
+        "100009",
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "100009_potatoes_stage_1.png": {
+      "name": "100009 Potatoes Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100009_potatoes_stage_1.png",
+      "tags": [
+        "100009",
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "100009_potatoes_stage_2.png": {
+      "name": "100009 Potatoes Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100009_potatoes_stage_2.png",
+      "tags": [
+        "100009",
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "100009_potatoes_stage_3.png": {
+      "name": "100009 Potatoes Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100009_potatoes_stage_3.png",
+      "tags": [
+        "100009",
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "100009_potatoes_stage_4.png": {
+      "name": "100009 Potatoes Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100009_potatoes_stage_4.png",
+      "tags": [
+        "100009",
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "100009_potatoes_stage_5.png": {
+      "name": "100009 Potatoes Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100009_potatoes_stage_5.png",
+      "tags": [
+        "100009",
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "100010_cocoa_beans_stage_0.png": {
+      "name": "100010 Cocoa Beans Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100010_cocoa_beans_stage_0.png",
+      "tags": [
+        "100010",
+        "cocoa",
+        "beans",
+        "stage",
+        "crop"
+      ]
+    },
+    "100010_cocoa_beans_stage_1.png": {
+      "name": "100010 Cocoa Beans Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100010_cocoa_beans_stage_1.png",
+      "tags": [
+        "100010",
+        "cocoa",
+        "beans",
+        "stage",
+        "crop"
+      ]
+    },
+    "100010_cocoa_beans_stage_2.png": {
+      "name": "100010 Cocoa Beans Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100010_cocoa_beans_stage_2.png",
+      "tags": [
+        "100010",
+        "cocoa",
+        "beans",
+        "stage",
+        "crop"
+      ]
+    },
+    "100010_cocoa_beans_stage_3.png": {
+      "name": "100010 Cocoa Beans Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100010_cocoa_beans_stage_3.png",
+      "tags": [
+        "100010",
+        "cocoa",
+        "beans",
+        "stage",
+        "crop"
+      ]
+    },
+    "100010_cocoa_beans_stage_4.png": {
+      "name": "100010 Cocoa Beans Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100010_cocoa_beans_stage_4.png",
+      "tags": [
+        "100010",
+        "cocoa",
+        "beans",
+        "stage",
+        "crop"
+      ]
+    },
+    "100010_cocoa_beans_stage_5.png": {
+      "name": "100010 Cocoa Beans Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100010_cocoa_beans_stage_5.png",
+      "tags": [
+        "100010",
+        "cocoa",
+        "beans",
+        "stage",
+        "crop"
+      ]
+    },
+    "100011_rubber_wood_stage_0.png": {
+      "name": "100011 Rubber Wood Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100011_rubber_wood_stage_0.png",
+      "tags": [
+        "100011",
+        "rubber",
+        "wood",
+        "stage",
+        "crop"
+      ]
+    },
+    "100011_rubber_wood_stage_1.png": {
+      "name": "100011 Rubber Wood Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100011_rubber_wood_stage_1.png",
+      "tags": [
+        "100011",
+        "rubber",
+        "wood",
+        "stage",
+        "crop"
+      ]
+    },
+    "100011_rubber_wood_stage_2.png": {
+      "name": "100011 Rubber Wood Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100011_rubber_wood_stage_2.png",
+      "tags": [
+        "100011",
+        "rubber",
+        "wood",
+        "stage",
+        "crop"
+      ]
+    },
+    "100011_rubber_wood_stage_3.png": {
+      "name": "100011 Rubber Wood Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100011_rubber_wood_stage_3.png",
+      "tags": [
+        "100011",
+        "rubber",
+        "wood",
+        "stage",
+        "crop"
+      ]
+    },
+    "100011_rubber_wood_stage_4.png": {
+      "name": "100011 Rubber Wood Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100011_rubber_wood_stage_4.png",
+      "tags": [
+        "100011",
+        "rubber",
+        "wood",
+        "stage",
+        "crop"
+      ]
+    },
+    "100011_rubber_wood_stage_5.png": {
+      "name": "100011 Rubber Wood Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100011_rubber_wood_stage_5.png",
+      "tags": [
+        "100011",
+        "rubber",
+        "wood",
+        "stage",
+        "crop"
+      ]
+    },
+    "100012_silk_stage_0.png": {
+      "name": "100012 Silk Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100012_silk_stage_0.png",
+      "tags": [
+        "100012",
+        "silk",
+        "stage",
+        "crop"
+      ]
+    },
+    "100012_silk_stage_1.png": {
+      "name": "100012 Silk Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100012_silk_stage_1.png",
+      "tags": [
+        "100012",
+        "silk",
+        "stage",
+        "crop"
+      ]
+    },
+    "100012_silk_stage_2.png": {
+      "name": "100012 Silk Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100012_silk_stage_2.png",
+      "tags": [
+        "100012",
+        "silk",
+        "stage",
+        "crop"
+      ]
+    },
+    "100012_silk_stage_3.png": {
+      "name": "100012 Silk Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100012_silk_stage_3.png",
+      "tags": [
+        "100012",
+        "silk",
+        "stage",
+        "crop"
+      ]
+    },
+    "100012_silk_stage_4.png": {
+      "name": "100012 Silk Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100012_silk_stage_4.png",
+      "tags": [
+        "100012",
+        "silk",
+        "stage",
+        "crop"
+      ]
+    },
+    "100012_silk_stage_5.png": {
+      "name": "100012 Silk Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/100012_silk_stage_5.png",
+      "tags": [
+        "100012",
+        "silk",
+        "stage",
+        "crop"
+      ]
+    },
+    "air_wall.png": {
+      "name": "Air Wall",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/air_wall.png",
+      "tags": [
+        "air",
+        "wall",
+        "utility"
+      ]
+    },
+    "anvil_base.png": {
+      "name": "Anvil Base",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/anvil_base.png",
+      "tags": [
+        "anvil",
+        "base",
+        "utility"
+      ]
+    },
+    "anvil_top_damaged_0.png": {
+      "name": "Anvil Top Damaged 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/anvil_top_damaged_0.png",
+      "tags": [
+        "anvil",
+        "top",
+        "damaged",
+        "utility"
+      ]
+    },
+    "anvil_top_damaged_1.png": {
+      "name": "Anvil Top Damaged 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/anvil_top_damaged_1.png",
+      "tags": [
+        "anvil",
+        "top",
+        "damaged",
+        "utility"
+      ]
+    },
+    "anvil_top_damaged_2.png": {
+      "name": "Anvil Top Damaged 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/anvil_top_damaged_2.png",
+      "tags": [
+        "anvil",
+        "top",
+        "damaged",
+        "utility"
+      ]
+    },
+    "banner.png": {
+      "name": "Banner",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/banner.png",
+      "tags": [
+        "banner",
+        "decoration"
+      ]
+    },
+    "banner_slate.png": {
+      "name": "Banner Slate",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/banner_slate.png",
+      "tags": [
+        "banner",
+        "slate",
+        "decoration"
+      ]
+    },
+    "beacon.png": {
+      "name": "Beacon",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/beacon.png",
+      "tags": [
+        "beacon",
+        "utility"
+      ]
+    },
+    "bed_feet_end.png": {
+      "name": "Bed Feet End",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bed_feet_end.png",
+      "tags": [
+        "bed",
+        "feet",
+        "end"
+      ]
+    },
+    "bed_feet_side.png": {
+      "name": "Bed Feet Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bed_feet_side.png",
+      "tags": [
+        "bed",
+        "feet",
+        "side"
+      ]
+    },
+    "bed_feet_top.png": {
+      "name": "Bed Feet Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bed_feet_top.png",
+      "tags": [
+        "bed",
+        "feet",
+        "top"
+      ]
+    },
+    "bed_head_end.png": {
+      "name": "Bed Head End",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bed_head_end.png",
+      "tags": [
+        "bed",
+        "head",
+        "end"
+      ]
+    },
+    "bed_head_side.png": {
+      "name": "Bed Head Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bed_head_side.png",
+      "tags": [
+        "bed",
+        "head",
+        "side"
+      ]
+    },
+    "bed_head_top.png": {
+      "name": "Bed Head Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bed_head_top.png",
+      "tags": [
+        "bed",
+        "head",
+        "top"
+      ]
+    },
+    "bedrock.png": {
+      "name": "Bedrock",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bedrock.png",
+      "tags": [
+        "bedrock",
+        "indestructible"
+      ]
+    },
+    "beetroots_stage_0.png": {
+      "name": "Beetroots Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/beetroots_stage_0.png",
+      "tags": [
+        "beetroots",
+        "stage",
+        "crop"
+      ]
+    },
+    "beetroots_stage_1.png": {
+      "name": "Beetroots Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/beetroots_stage_1.png",
+      "tags": [
+        "beetroots",
+        "stage",
+        "crop"
+      ]
+    },
+    "beetroots_stage_2.png": {
+      "name": "Beetroots Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/beetroots_stage_2.png",
+      "tags": [
+        "beetroots",
+        "stage",
+        "crop"
+      ]
+    },
+    "beetroots_stage_3.png": {
+      "name": "Beetroots Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/beetroots_stage_3.png",
+      "tags": [
+        "beetroots",
+        "stage",
+        "crop"
+      ]
+    },
+    "bone_block_side.png": {
+      "name": "Bone Block Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bone_block_side.png",
+      "tags": [
+        "bone",
+        "block",
+        "side"
+      ]
+    },
+    "bone_block_top.png": {
+      "name": "Bone Block Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bone_block_top.png",
+      "tags": [
+        "bone",
+        "block",
+        "top"
+      ]
+    },
+    "bookshelf.png": {
+      "name": "Bookshelf",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/bookshelf.png",
+      "tags": [
+        "bookshelf",
+        "decoration",
+        "wood"
+      ]
+    },
+    "brewing_stand.png": {
+      "name": "Brewing Stand",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/brewing_stand.png",
+      "tags": [
+        "brewing",
+        "stand",
+        "utility"
+      ]
+    },
+    "brewing_stand_base.png": {
+      "name": "Brewing Stand Base",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/brewing_stand_base.png",
+      "tags": [
+        "brewing",
+        "stand",
+        "base",
+        "utility"
+      ]
+    },
+    "brick.png": {
+      "name": "Brick",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/brick.png",
+      "tags": [
+        "brick",
+        "building"
+      ]
+    },
+    "cactus_bottom.png": {
+      "name": "Cactus Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cactus_bottom.png",
+      "tags": [
+        "cactus",
+        "bottom",
+        "plant"
+      ]
+    },
+    "cactus_side.png": {
+      "name": "Cactus Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cactus_side.png",
+      "tags": [
+        "cactus",
+        "side",
+        "plant"
+      ]
+    },
+    "cactus_top.png": {
+      "name": "Cactus Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cactus_top.png",
+      "tags": [
+        "cactus",
+        "top",
+        "plant"
+      ]
+    },
+    "cake_bottom.png": {
+      "name": "Cake Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cake_bottom.png",
+      "tags": [
+        "cake",
+        "bottom",
+        "food"
+      ]
+    },
+    "cake_inner.png": {
+      "name": "Cake Inner",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cake_inner.png",
+      "tags": [
+        "cake",
+        "inner",
+        "food"
+      ]
+    },
+    "cake_side.png": {
+      "name": "Cake Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cake_side.png",
+      "tags": [
+        "cake",
+        "side",
+        "food"
+      ]
+    },
+    "cake_top.png": {
+      "name": "Cake Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cake_top.png",
+      "tags": [
+        "cake",
+        "top",
+        "food"
+      ]
+    },
+    "carrots_stage_0.png": {
+      "name": "Carrots Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/carrots_stage_0.png",
+      "tags": [
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "carrots_stage_1.png": {
+      "name": "Carrots Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/carrots_stage_1.png",
+      "tags": [
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "carrots_stage_2.png": {
+      "name": "Carrots Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/carrots_stage_2.png",
+      "tags": [
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "carrots_stage_3.png": {
+      "name": "Carrots Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/carrots_stage_3.png",
+      "tags": [
+        "carrots",
+        "stage",
+        "crop"
+      ]
+    },
+    "cauldron_bottom.png": {
+      "name": "Cauldron Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cauldron_bottom.png",
+      "tags": [
+        "cauldron",
+        "bottom",
+        "utility"
+      ]
+    },
+    "cauldron_inner.png": {
+      "name": "Cauldron Inner",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cauldron_inner.png",
+      "tags": [
+        "cauldron",
+        "inner",
+        "utility"
+      ]
+    },
+    "cauldron_side.png": {
+      "name": "Cauldron Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cauldron_side.png",
+      "tags": [
+        "cauldron",
+        "side",
+        "utility"
+      ]
+    },
+    "cauldron_top.png": {
+      "name": "Cauldron Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cauldron_top.png",
+      "tags": [
+        "cauldron",
+        "top",
+        "utility"
+      ]
+    },
+    "chain_command_block_back.png": {
+      "name": "Chain Command Block Back",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/chain_command_block_back.png",
+      "tags": [
+        "chain",
+        "command",
+        "block",
+        "back",
+        "utility"
+      ]
+    },
+    "chain_command_block_conditional.png": {
+      "name": "Chain Command Block Conditional",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/chain_command_block_conditional.png",
+      "tags": [
+        "chain",
+        "command",
+        "block",
+        "conditional",
+        "utility"
+      ]
+    },
+    "chain_command_block_front.png": {
+      "name": "Chain Command Block Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/chain_command_block_front.png",
+      "tags": [
+        "chain",
+        "command",
+        "block",
+        "front",
+        "utility"
+      ]
+    },
+    "chain_command_block_side.png": {
+      "name": "Chain Command Block Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/chain_command_block_side.png",
+      "tags": [
+        "chain",
+        "command",
+        "block",
+        "side",
+        "utility"
+      ]
+    },
+    "chorus_flower.png": {
+      "name": "Chorus Flower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/chorus_flower.png",
+      "tags": [
+        "chorus",
+        "flower",
+        "plant",
+        "end"
+      ]
+    },
+    "chorus_flower_dead.png": {
+      "name": "Chorus Flower Dead",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/chorus_flower_dead.png",
+      "tags": [
+        "chorus",
+        "flower",
+        "dead",
+        "plant",
+        "end"
+      ]
+    },
+    "chorus_plant.png": {
+      "name": "Chorus Plant",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/chorus_plant.png",
+      "tags": [
+        "chorus",
+        "plant",
+        "end"
+      ]
+    },
+    "clay.png": {
+      "name": "Clay",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/clay.png",
+      "tags": [
+        "clay",
+        "earth"
+      ]
+    },
+    "coal_block.png": {
+      "name": "Coal Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/coal_block.png",
+      "tags": [
+        "coal",
+        "block",
+        "storage"
+      ]
+    },
+    "coal_ore.png": {
+      "name": "Coal Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/coal_ore.png",
+      "tags": [
+        "coal",
+        "ore"
+      ]
+    },
+    "coarse_dirt.png": {
+      "name": "Coarse Dirt",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/coarse_dirt.png",
+      "tags": [
+        "coarse",
+        "dirt",
+        "earth"
+      ]
+    },
+    "cobblestone.png": {
+      "name": "Cobblestone",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cobblestone.png",
+      "tags": [
+        "cobblestone",
+        "stone"
+      ]
+    },
+    "cobblestone_mossy.png": {
+      "name": "Cobblestone Mossy",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cobblestone_mossy.png",
+      "tags": [
+        "cobblestone",
+        "mossy",
+        "stone"
+      ]
+    },
+    "cocoa_stage_0.png": {
+      "name": "Cocoa Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cocoa_stage_0.png",
+      "tags": [
+        "cocoa",
+        "stage",
+        "crop"
+      ]
+    },
+    "cocoa_stage_1.png": {
+      "name": "Cocoa Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cocoa_stage_1.png",
+      "tags": [
+        "cocoa",
+        "stage",
+        "crop"
+      ]
+    },
+    "cocoa_stage_2.png": {
+      "name": "Cocoa Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/cocoa_stage_2.png",
+      "tags": [
+        "cocoa",
+        "stage",
+        "crop"
+      ]
+    },
+    "command_block.png": {
+      "name": "Command Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/command_block.png",
+      "tags": [
+        "command",
+        "block",
+        "utility"
+      ]
+    },
+    "command_block_back.png": {
+      "name": "Command Block Back",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/command_block_back.png",
+      "tags": [
+        "command",
+        "block",
+        "back",
+        "utility"
+      ]
+    },
+    "command_block_conditional.png": {
+      "name": "Command Block Conditional",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/command_block_conditional.png",
+      "tags": [
+        "command",
+        "block",
+        "conditional",
+        "utility"
+      ]
+    },
+    "command_block_front.png": {
+      "name": "Command Block Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/command_block_front.png",
+      "tags": [
+        "command",
+        "block",
+        "front",
+        "utility"
+      ]
+    },
+    "command_block_side.png": {
+      "name": "Command Block Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/command_block_side.png",
+      "tags": [
+        "command",
+        "block",
+        "side",
+        "utility"
+      ]
+    },
+    "comparator_off.png": {
+      "name": "Comparator Off",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/comparator_off.png",
+      "tags": [
+        "comparator",
+        "off",
+        "redstone"
+      ]
+    },
+    "comparator_on.png": {
+      "name": "Comparator On",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/comparator_on.png",
+      "tags": [
+        "comparator",
+        "on",
+        "redstone"
+      ]
+    },
+    "concrete_black.png": {
+      "name": "Concrete Black",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_black.png",
+      "tags": [
+        "concrete",
+        "black",
+        "colored"
+      ]
+    },
+    "concrete_blue.png": {
+      "name": "Concrete Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_blue.png",
+      "tags": [
+        "concrete",
+        "blue",
+        "colored"
+      ]
+    },
+    "concrete_brown.png": {
+      "name": "Concrete Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_brown.png",
+      "tags": [
+        "concrete",
+        "brown",
+        "colored"
+      ]
+    },
+    "concrete_cyan.png": {
+      "name": "Concrete Cyan",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_cyan.png",
+      "tags": [
+        "concrete",
+        "cyan",
+        "colored"
+      ]
+    },
+    "concrete_gray.png": {
+      "name": "Concrete Gray",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_gray.png",
+      "tags": [
+        "concrete",
+        "gray",
+        "colored"
+      ]
+    },
+    "concrete_green.png": {
+      "name": "Concrete Green",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_green.png",
+      "tags": [
+        "concrete",
+        "green",
+        "colored"
+      ]
+    },
+    "concrete_light_blue.png": {
+      "name": "Concrete Light Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_light_blue.png",
+      "tags": [
+        "concrete",
+        "light",
+        "blue",
+        "colored"
+      ]
+    },
+    "concrete_lime.png": {
+      "name": "Concrete Lime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_lime.png",
+      "tags": [
+        "concrete",
+        "lime",
+        "colored"
+      ]
+    },
+    "concrete_magenta.png": {
+      "name": "Concrete Magenta",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_magenta.png",
+      "tags": [
+        "concrete",
+        "magenta",
+        "colored"
+      ]
+    },
+    "concrete_orange.png": {
+      "name": "Concrete Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_orange.png",
+      "tags": [
+        "concrete",
+        "orange",
+        "colored"
+      ]
+    },
+    "concrete_pink.png": {
+      "name": "Concrete Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_pink.png",
+      "tags": [
+        "concrete",
+        "pink",
+        "colored"
+      ]
+    },
+    "concrete_powder_black.png": {
+      "name": "Concrete Powder Black",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_black.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "black",
+        "colored"
+      ]
+    },
+    "concrete_powder_blue.png": {
+      "name": "Concrete Powder Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_blue.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "blue",
+        "colored"
+      ]
+    },
+    "concrete_powder_brown.png": {
+      "name": "Concrete Powder Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_brown.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "brown",
+        "colored"
+      ]
+    },
+    "concrete_powder_cyan.png": {
+      "name": "Concrete Powder Cyan",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_cyan.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "cyan",
+        "colored"
+      ]
+    },
+    "concrete_powder_gray.png": {
+      "name": "Concrete Powder Gray",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_gray.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "gray",
+        "colored"
+      ]
+    },
+    "concrete_powder_green.png": {
+      "name": "Concrete Powder Green",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_green.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "green",
+        "colored"
+      ]
+    },
+    "concrete_powder_light_blue.png": {
+      "name": "Concrete Powder Light Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_light_blue.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "light",
+        "blue",
+        "colored"
+      ]
+    },
+    "concrete_powder_lime.png": {
+      "name": "Concrete Powder Lime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_lime.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "lime",
+        "colored"
+      ]
+    },
+    "concrete_powder_magenta.png": {
+      "name": "Concrete Powder Magenta",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_magenta.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "magenta",
+        "colored"
+      ]
+    },
+    "concrete_powder_orange.png": {
+      "name": "Concrete Powder Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_orange.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "orange",
+        "colored"
+      ]
+    },
+    "concrete_powder_pink.png": {
+      "name": "Concrete Powder Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_pink.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "pink",
+        "colored"
+      ]
+    },
+    "concrete_powder_purple.png": {
+      "name": "Concrete Powder Purple",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_purple.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "purple",
+        "colored"
+      ]
+    },
+    "concrete_powder_red.png": {
+      "name": "Concrete Powder Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_red.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "red",
+        "colored"
+      ]
+    },
+    "concrete_powder_silver.png": {
+      "name": "Concrete Powder Silver",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_silver.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "silver",
+        "colored"
+      ]
+    },
+    "concrete_powder_white.png": {
+      "name": "Concrete Powder White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_white.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "white",
+        "colored"
+      ]
+    },
+    "concrete_powder_yellow.png": {
+      "name": "Concrete Powder Yellow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_powder_yellow.png",
+      "tags": [
+        "concrete",
+        "powder",
+        "yellow",
+        "colored"
+      ]
+    },
+    "concrete_purple.png": {
+      "name": "Concrete Purple",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_purple.png",
+      "tags": [
+        "concrete",
+        "purple",
+        "colored"
+      ]
+    },
+    "concrete_red.png": {
+      "name": "Concrete Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_red.png",
+      "tags": [
+        "concrete",
+        "red",
+        "colored"
+      ]
+    },
+    "concrete_silver.png": {
+      "name": "Concrete Silver",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_silver.png",
+      "tags": [
+        "concrete",
+        "silver",
+        "colored"
+      ]
+    },
+    "concrete_white.png": {
+      "name": "Concrete White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_white.png",
+      "tags": [
+        "concrete",
+        "white",
+        "colored"
+      ]
+    },
+    "concrete_yellow.png": {
+      "name": "Concrete Yellow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/concrete_yellow.png",
+      "tags": [
+        "concrete",
+        "yellow",
+        "colored"
+      ]
+    },
+    "crafting_table_front.png": {
+      "name": "Crafting Table Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/crafting_table_front.png",
+      "tags": [
+        "crafting",
+        "table",
+        "front",
+        "utility"
+      ]
+    },
+    "crafting_table_side.png": {
+      "name": "Crafting Table Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/crafting_table_side.png",
+      "tags": [
+        "crafting",
+        "table",
+        "side",
+        "utility"
+      ]
+    },
+    "crafting_table_top.png": {
+      "name": "Crafting Table Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/crafting_table_top.png",
+      "tags": [
+        "crafting",
+        "table",
+        "top",
+        "utility"
+      ]
+    },
+    "darkdoorfull.png": {
+      "name": "Darkdoorfull",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/darkdoorfull.png",
+      "tags": [
+        "darkdoorfull",
+        "door"
+      ]
+    },
+    "daylight_detector_inverted_top.png": {
+      "name": "Daylight Detector Inverted Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/daylight_detector_inverted_top.png",
+      "tags": [
+        "daylight",
+        "detector",
+        "inverted",
+        "top",
+        "redstone"
+      ]
+    },
+    "daylight_detector_side.png": {
+      "name": "Daylight Detector Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/daylight_detector_side.png",
+      "tags": [
+        "daylight",
+        "detector",
+        "side",
+        "redstone"
+      ]
+    },
+    "daylight_detector_top.png": {
+      "name": "Daylight Detector Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/daylight_detector_top.png",
+      "tags": [
+        "daylight",
+        "detector",
+        "top",
+        "redstone"
+      ]
+    },
+    "deadbush.png": {
+      "name": "Deadbush",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/deadbush.png",
+      "tags": [
+        "deadbush",
+        "plant"
+      ]
+    },
+    "debug.png": {
+      "name": "Debug",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/debug.png",
+      "tags": [
+        "debug",
+        "utility"
+      ]
+    },
+    "debug2.png": {
+      "name": "Debug2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/debug2.png",
+      "tags": [
+        "debug2",
+        "utility"
+      ]
+    },
+    "destroy_stage_0.png": {
+      "name": "Destroy Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_0.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_1.png": {
+      "name": "Destroy Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_1.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_2.png": {
+      "name": "Destroy Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_2.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_3.png": {
+      "name": "Destroy Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_3.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_4.png": {
+      "name": "Destroy Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_4.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_5.png": {
+      "name": "Destroy Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_5.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_6.png": {
+      "name": "Destroy Stage 6",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_6.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_7.png": {
+      "name": "Destroy Stage 7",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_7.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_8.png": {
+      "name": "Destroy Stage 8",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_8.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "destroy_stage_9.png": {
+      "name": "Destroy Stage 9",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/destroy_stage_9.png",
+      "tags": [
+        "destroy",
+        "stage",
+        "utility"
+      ]
+    },
+    "diamond_block.png": {
+      "name": "Diamond Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/diamond_block.png",
+      "tags": [
+        "diamond",
+        "block",
+        "storage"
+      ]
+    },
+    "diamond_ore.png": {
+      "name": "Diamond Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/diamond_ore.png",
+      "tags": [
+        "diamond",
+        "ore"
+      ]
+    },
+    "dirt.png": {
+      "name": "Dirt",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dirt.png",
+      "tags": [
+        "dirt",
+        "earth"
+      ]
+    },
+    "dirt_podzol_side.png": {
+      "name": "Dirt Podzol Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dirt_podzol_side.png",
+      "tags": [
+        "dirt",
+        "podzol",
+        "side",
+        "earth"
+      ]
+    },
+    "dirt_podzol_top.png": {
+      "name": "Dirt Podzol Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dirt_podzol_top.png",
+      "tags": [
+        "dirt",
+        "podzol",
+        "top",
+        "earth"
+      ]
+    },
+    "dirt_top.png": {
+      "name": "Dirt Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dirt_top.png",
+      "tags": [
+        "dirt",
+        "top",
+        "earth"
+      ]
+    },
+    "dispenser_front_horizontal.png": {
+      "name": "Dispenser Front Horizontal",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dispenser_front_horizontal.png",
+      "tags": [
+        "dispenser",
+        "front",
+        "horizontal",
+        "utility"
+      ]
+    },
+    "dispenser_front_vertical.png": {
+      "name": "Dispenser Front Vertical",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dispenser_front_vertical.png",
+      "tags": [
+        "dispenser",
+        "front",
+        "vertical",
+        "utility"
+      ]
+    },
+    "door_acacia_lower.png": {
+      "name": "Door Acacia Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_acacia_lower.png",
+      "tags": [
+        "door",
+        "acacia",
+        "lower",
+        "wood"
+      ]
+    },
+    "door_acacia_upper.png": {
+      "name": "Door Acacia Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_acacia_upper.png",
+      "tags": [
+        "door",
+        "acacia",
+        "upper",
+        "wood"
+      ]
+    },
+    "door_birch_lower.png": {
+      "name": "Door Birch Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_birch_lower.png",
+      "tags": [
+        "door",
+        "birch",
+        "lower",
+        "wood"
+      ]
+    },
+    "door_birch_upper.png": {
+      "name": "Door Birch Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_birch_upper.png",
+      "tags": [
+        "door",
+        "birch",
+        "upper",
+        "wood"
+      ]
+    },
+    "door_dark_oak_lower.png": {
+      "name": "Door Dark Oak Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_dark_oak_lower.png",
+      "tags": [
+        "door",
+        "dark",
+        "oak",
+        "lower",
+        "wood"
+      ]
+    },
+    "door_dark_oak_upper.png": {
+      "name": "Door Dark Oak Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_dark_oak_upper.png",
+      "tags": [
+        "door",
+        "dark",
+        "oak",
+        "upper",
+        "wood"
+      ]
+    },
+    "door_iron_lower.png": {
+      "name": "Door Iron Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_iron_lower.png",
+      "tags": [
+        "door",
+        "iron",
+        "lower",
+        "metal"
+      ]
+    },
+    "door_iron_new_lower.png": {
+      "name": "Door Iron New Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_iron_new_lower.png",
+      "tags": [
+        "door",
+        "iron",
+        "new",
+        "lower",
+        "metal"
+      ]
+    },
+    "door_iron_new_upper.png": {
+      "name": "Door Iron New Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_iron_new_upper.png",
+      "tags": [
+        "door",
+        "iron",
+        "new",
+        "upper",
+        "metal"
+      ]
+    },
+    "door_iron_upper.png": {
+      "name": "Door Iron Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_iron_upper.png",
+      "tags": [
+        "door",
+        "iron",
+        "upper",
+        "metal"
+      ]
+    },
+    "door_jungle_lower.png": {
+      "name": "Door Jungle Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_jungle_lower.png",
+      "tags": [
+        "door",
+        "jungle",
+        "lower",
+        "wood"
+      ]
+    },
+    "door_jungle_upper.png": {
+      "name": "Door Jungle Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_jungle_upper.png",
+      "tags": [
+        "door",
+        "jungle",
+        "upper",
+        "wood"
+      ]
+    },
+    "door_spruce_lower.png": {
+      "name": "Door Spruce Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_spruce_lower.png",
+      "tags": [
+        "door",
+        "spruce",
+        "lower",
+        "wood"
+      ]
+    },
+    "door_spruce_upper.png": {
+      "name": "Door Spruce Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_spruce_upper.png",
+      "tags": [
+        "door",
+        "spruce",
+        "upper",
+        "wood"
+      ]
+    },
+    "door_wood_lower.png": {
+      "name": "Door Wood Lower",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_wood_lower.png",
+      "tags": [
+        "door",
+        "wood",
+        "lower"
+      ]
+    },
+    "door_wood_upper.png": {
+      "name": "Door Wood Upper",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/door_wood_upper.png",
+      "tags": [
+        "door",
+        "wood",
+        "upper"
+      ]
+    },
+    "double_plant_fern_bottom.png": {
+      "name": "Double Plant Fern Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_fern_bottom.png",
+      "tags": [
+        "double",
+        "plant",
+        "fern",
+        "bottom"
+      ]
+    },
+    "double_plant_fern_top.png": {
+      "name": "Double Plant Fern Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_fern_top.png",
+      "tags": [
+        "double",
+        "plant",
+        "fern",
+        "top"
+      ]
+    },
+    "double_plant_grass_bottom.png": {
+      "name": "Double Plant Grass Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_grass_bottom.png",
+      "tags": [
+        "double",
+        "plant",
+        "grass",
+        "bottom"
+      ]
+    },
+    "double_plant_grass_top.png": {
+      "name": "Double Plant Grass Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_grass_top.png",
+      "tags": [
+        "double",
+        "plant",
+        "grass",
+        "top"
+      ]
+    },
+    "double_plant_paeonia_bottom.png": {
+      "name": "Double Plant Paeonia Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_paeonia_bottom.png",
+      "tags": [
+        "double",
+        "plant",
+        "paeonia",
+        "bottom"
+      ]
+    },
+    "double_plant_paeonia_top.png": {
+      "name": "Double Plant Paeonia Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_paeonia_top.png",
+      "tags": [
+        "double",
+        "plant",
+        "paeonia",
+        "top"
+      ]
+    },
+    "double_plant_rose_bottom.png": {
+      "name": "Double Plant Rose Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_rose_bottom.png",
+      "tags": [
+        "double",
+        "plant",
+        "rose",
+        "bottom"
+      ]
+    },
+    "double_plant_rose_top.png": {
+      "name": "Double Plant Rose Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_rose_top.png",
+      "tags": [
+        "double",
+        "plant",
+        "rose",
+        "top"
+      ]
+    },
+    "double_plant_sunflower_back.png": {
+      "name": "Double Plant Sunflower Back",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_sunflower_back.png",
+      "tags": [
+        "double",
+        "plant",
+        "sunflower",
+        "back"
+      ]
+    },
+    "double_plant_sunflower_bottom.png": {
+      "name": "Double Plant Sunflower Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_sunflower_bottom.png",
+      "tags": [
+        "double",
+        "plant",
+        "sunflower",
+        "bottom"
+      ]
+    },
+    "double_plant_sunflower_front.png": {
+      "name": "Double Plant Sunflower Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_sunflower_front.png",
+      "tags": [
+        "double",
+        "plant",
+        "sunflower",
+        "front"
+      ]
+    },
+    "double_plant_sunflower_top.png": {
+      "name": "Double Plant Sunflower Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_sunflower_top.png",
+      "tags": [
+        "double",
+        "plant",
+        "sunflower",
+        "top"
+      ]
+    },
+    "double_plant_syringa_bottom.png": {
+      "name": "Double Plant Syringa Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_syringa_bottom.png",
+      "tags": [
+        "double",
+        "plant",
+        "syringa",
+        "bottom"
+      ]
+    },
+    "double_plant_syringa_top.png": {
+      "name": "Double Plant Syringa Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/double_plant_syringa_top.png",
+      "tags": [
+        "double",
+        "plant",
+        "syringa",
+        "top"
+      ]
+    },
+    "dragon_egg.png": {
+      "name": "Dragon Egg",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dragon_egg.png",
+      "tags": [
+        "dragon",
+        "egg",
+        "end"
+      ]
+    },
+    "dropper_front_horizontal.png": {
+      "name": "Dropper Front Horizontal",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dropper_front_horizontal.png",
+      "tags": [
+        "dropper",
+        "front",
+        "horizontal",
+        "utility"
+      ]
+    },
+    "dropper_front_vertical.png": {
+      "name": "Dropper Front Vertical",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/dropper_front_vertical.png",
+      "tags": [
+        "dropper",
+        "front",
+        "vertical",
+        "utility"
+      ]
+    },
+    "emerald_block.png": {
+      "name": "Emerald Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/emerald_block.png",
+      "tags": [
+        "emerald",
+        "block",
+        "storage"
+      ]
+    },
+    "emerald_ore.png": {
+      "name": "Emerald Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/emerald_ore.png",
+      "tags": [
+        "emerald",
+        "ore"
+      ]
+    },
+    "empty.png": {
+      "name": "Empty",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/empty.png",
+      "tags": [
+        "empty",
+        "utility"
+      ]
+    },
+    "enchanting_table_bottom.png": {
+      "name": "Enchanting Table Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/enchanting_table_bottom.png",
+      "tags": [
+        "enchanting",
+        "table",
+        "bottom",
+        "utility"
+      ]
+    },
+    "enchanting_table_side.png": {
+      "name": "Enchanting Table Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/enchanting_table_side.png",
+      "tags": [
+        "enchanting",
+        "table",
+        "side",
+        "utility"
+      ]
+    },
+    "enchanting_table_top.png": {
+      "name": "Enchanting Table Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/enchanting_table_top.png",
+      "tags": [
+        "enchanting",
+        "table",
+        "top",
+        "utility"
+      ]
+    },
+    "end_bricks.png": {
+      "name": "End Bricks",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/end_bricks.png",
+      "tags": [
+        "end",
+        "bricks",
+        "stone"
+      ]
+    },
+    "end_rod.png": {
+      "name": "End Rod",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/end_rod.png",
+      "tags": [
+        "end",
+        "rod",
+        "light"
+      ]
+    },
+    "end_stone.png": {
+      "name": "End Stone",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/end_stone.png",
+      "tags": [
+        "end",
+        "stone"
+      ]
+    },
+    "endframe_eye.png": {
+      "name": "Endframe Eye",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/endframe_eye.png",
+      "tags": [
+        "endframe",
+        "eye",
+        "end"
+      ]
+    },
+    "endframe_side.png": {
+      "name": "Endframe Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/endframe_side.png",
+      "tags": [
+        "endframe",
+        "side",
+        "end"
+      ]
+    },
+    "endframe_top.png": {
+      "name": "Endframe Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/endframe_top.png",
+      "tags": [
+        "endframe",
+        "top",
+        "end"
+      ]
+    },
+    "farmland_dry.png": {
+      "name": "Farmland Dry",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/farmland_dry.png",
+      "tags": [
+        "farmland",
+        "dry",
+        "earth"
+      ]
+    },
+    "farmland_wet.png": {
+      "name": "Farmland Wet",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/farmland_wet.png",
+      "tags": [
+        "farmland",
+        "wet",
+        "earth"
+      ]
+    },
+    "fern.png": {
+      "name": "Fern",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fern.png",
+      "tags": [
+        "fern",
+        "plant"
+      ]
+    },
+    "fire_layer_0.png": {
+      "name": "Fire Layer 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fire_layer_0.png",
+      "tags": [
+        "fire",
+        "layer"
+      ]
+    },
+    "fire_layer_1.png": {
+      "name": "Fire Layer 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fire_layer_1.png",
+      "tags": [
+        "fire",
+        "layer"
+      ]
+    },
+    "flower_allium.png": {
+      "name": "Flower Allium",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_allium.png",
+      "tags": [
+        "flower",
+        "allium",
+        "plant"
+      ]
+    },
+    "flower_blue_orchid.png": {
+      "name": "Flower Blue Orchid",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_blue_orchid.png",
+      "tags": [
+        "flower",
+        "blue",
+        "orchid",
+        "plant"
+      ]
+    },
+    "flower_dandelion.png": {
+      "name": "Flower Dandelion",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_dandelion.png",
+      "tags": [
+        "flower",
+        "dandelion",
+        "plant"
+      ]
+    },
+    "flower_houstonia.png": {
+      "name": "Flower Houstonia",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_houstonia.png",
+      "tags": [
+        "flower",
+        "houstonia",
+        "plant"
+      ]
+    },
+    "flower_oxeye_daisy.png": {
+      "name": "Flower Oxeye Daisy",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_oxeye_daisy.png",
+      "tags": [
+        "flower",
+        "oxeye",
+        "daisy",
+        "plant"
+      ]
+    },
+    "flower_paeonia.png": {
+      "name": "Flower Paeonia",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_paeonia.png",
+      "tags": [
+        "flower",
+        "paeonia",
+        "plant"
+      ]
+    },
+    "flower_pot.png": {
+      "name": "Flower Pot",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_pot.png",
+      "tags": [
+        "flower",
+        "pot",
+        "decoration"
+      ]
+    },
+    "flower_rose.png": {
+      "name": "Flower Rose",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_rose.png",
+      "tags": [
+        "flower",
+        "rose",
+        "plant"
+      ]
+    },
+    "flower_tulip_orange.png": {
+      "name": "Flower Tulip Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_tulip_orange.png",
+      "tags": [
+        "flower",
+        "tulip",
+        "orange",
+        "plant"
+      ]
+    },
+    "flower_tulip_pink.png": {
+      "name": "Flower Tulip Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_tulip_pink.png",
+      "tags": [
+        "flower",
+        "tulip",
+        "pink",
+        "plant"
+      ]
+    },
+    "flower_tulip_red.png": {
+      "name": "Flower Tulip Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_tulip_red.png",
+      "tags": [
+        "flower",
+        "tulip",
+        "red",
+        "plant"
+      ]
+    },
+    "flower_tulip_white.png": {
+      "name": "Flower Tulip White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/flower_tulip_white.png",
+      "tags": [
+        "flower",
+        "tulip",
+        "white",
+        "plant"
+      ]
+    },
+    "frosted_ice_0.png": {
+      "name": "Frosted Ice 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/frosted_ice_0.png",
+      "tags": [
+        "frosted",
+        "ice"
+      ]
+    },
+    "frosted_ice_1.png": {
+      "name": "Frosted Ice 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/frosted_ice_1.png",
+      "tags": [
+        "frosted",
+        "ice"
+      ]
+    },
+    "frosted_ice_2.png": {
+      "name": "Frosted Ice 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/frosted_ice_2.png",
+      "tags": [
+        "frosted",
+        "ice"
+      ]
+    },
+    "frosted_ice_3.png": {
+      "name": "Frosted Ice 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/frosted_ice_3.png",
+      "tags": [
+        "frosted",
+        "ice"
+      ]
+    },
+    "fruits_01.png": {
+      "name": "Fruits 01",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_01.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_02.png": {
+      "name": "Fruits 02",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_02.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_03.png": {
+      "name": "Fruits 03",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_03.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_04.png": {
+      "name": "Fruits 04",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_04.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_05.png": {
+      "name": "Fruits 05",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_05.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_06.png": {
+      "name": "Fruits 06",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_06.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_07.png": {
+      "name": "Fruits 07",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_07.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_08.png": {
+      "name": "Fruits 08",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_08.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_09.png": {
+      "name": "Fruits 09",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_09.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_10.png": {
+      "name": "Fruits 10",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_10.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_11.png": {
+      "name": "Fruits 11",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_11.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "fruits_12.png": {
+      "name": "Fruits 12",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/fruits_12.png",
+      "tags": [
+        "fruits",
+        "food"
+      ]
+    },
+    "furnace_front_off.png": {
+      "name": "Furnace Front Off",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/furnace_front_off.png",
+      "tags": [
+        "furnace",
+        "front",
+        "off",
+        "utility"
+      ]
+    },
+    "furnace_front_on.png": {
+      "name": "Furnace Front On",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/furnace_front_on.png",
+      "tags": [
+        "furnace",
+        "front",
+        "on",
+        "utility"
+      ]
+    },
+    "furnace_side.png": {
+      "name": "Furnace Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/furnace_side.png",
+      "tags": [
+        "furnace",
+        "side",
+        "utility"
+      ]
+    },
+    "furnace_top.png": {
+      "name": "Furnace Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/furnace_top.png",
+      "tags": [
+        "furnace",
+        "top",
+        "utility"
+      ]
+    },
+    "glass.png": {
+      "name": "Glass",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass.png",
+      "tags": [
+        "glass",
+        "transparent"
+      ]
+    },
+    "glass_black.png": {
+      "name": "Glass Black",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_black.png",
+      "tags": [
+        "glass",
+        "black",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_blue.png": {
+      "name": "Glass Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_blue.png",
+      "tags": [
+        "glass",
+        "blue",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_brown.png": {
+      "name": "Glass Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_brown.png",
+      "tags": [
+        "glass",
+        "brown",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_cyan.png": {
+      "name": "Glass Cyan",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_cyan.png",
+      "tags": [
+        "glass",
+        "cyan",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_gray.png": {
+      "name": "Glass Gray",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_gray.png",
+      "tags": [
+        "glass",
+        "gray",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_green.png": {
+      "name": "Glass Green",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_green.png",
+      "tags": [
+        "glass",
+        "green",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_light_blue.png": {
+      "name": "Glass Light Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_light_blue.png",
+      "tags": [
+        "glass",
+        "light",
+        "blue",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_lime.png": {
+      "name": "Glass Lime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_lime.png",
+      "tags": [
+        "glass",
+        "lime",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_magenta.png": {
+      "name": "Glass Magenta",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_magenta.png",
+      "tags": [
+        "glass",
+        "magenta",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_orange.png": {
+      "name": "Glass Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_orange.png",
+      "tags": [
+        "glass",
+        "orange",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top.png": {
+      "name": "Glass Pane Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "transparent"
+      ]
+    },
+    "glass_pane_top_black.png": {
+      "name": "Glass Pane Top Black",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_black.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "black",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_blue.png": {
+      "name": "Glass Pane Top Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_blue.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "blue",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_brown.png": {
+      "name": "Glass Pane Top Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_brown.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "brown",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_cyan.png": {
+      "name": "Glass Pane Top Cyan",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_cyan.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "cyan",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_gray.png": {
+      "name": "Glass Pane Top Gray",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_gray.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "gray",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_green.png": {
+      "name": "Glass Pane Top Green",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_green.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "green",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_light_blue.png": {
+      "name": "Glass Pane Top Light Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_light_blue.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "light",
+        "blue",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_lime.png": {
+      "name": "Glass Pane Top Lime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_lime.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "lime",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_magenta.png": {
+      "name": "Glass Pane Top Magenta",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_magenta.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "magenta",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_orange.png": {
+      "name": "Glass Pane Top Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_orange.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "orange",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_pink.png": {
+      "name": "Glass Pane Top Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_pink.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "pink",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_purple.png": {
+      "name": "Glass Pane Top Purple",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_purple.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "purple",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_red.png": {
+      "name": "Glass Pane Top Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_red.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "red",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_silver.png": {
+      "name": "Glass Pane Top Silver",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_silver.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "silver",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_white.png": {
+      "name": "Glass Pane Top White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_white.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "white",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pane_top_yellow.png": {
+      "name": "Glass Pane Top Yellow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pane_top_yellow.png",
+      "tags": [
+        "glass",
+        "pane",
+        "top",
+        "yellow",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_pink.png": {
+      "name": "Glass Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_pink.png",
+      "tags": [
+        "glass",
+        "pink",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_purple-1.png": {
+      "name": "Glass Purple 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_purple-1.png",
+      "tags": [
+        "glass",
+        "purple",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_purple.png": {
+      "name": "Glass Purple",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_purple.png",
+      "tags": [
+        "glass",
+        "purple",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_red.png": {
+      "name": "Glass Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_red.png",
+      "tags": [
+        "glass",
+        "red",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_silver-1.png": {
+      "name": "Glass Silver 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_silver-1.png",
+      "tags": [
+        "glass",
+        "silver",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_silver.png": {
+      "name": "Glass Silver",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_silver.png",
+      "tags": [
+        "glass",
+        "silver",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_white.png": {
+      "name": "Glass White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_white.png",
+      "tags": [
+        "glass",
+        "white",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glass_yellow.png": {
+      "name": "Glass Yellow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glass_yellow.png",
+      "tags": [
+        "glass",
+        "yellow",
+        "transparent",
+        "colored"
+      ]
+    },
+    "glowstone.png": {
+      "name": "Glowstone",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glowstone.png",
+      "tags": [
+        "glowstone",
+        "light"
+      ]
+    },
+    "glowstone_hell.png": {
+      "name": "Glowstone Hell",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/glowstone_hell.png",
+      "tags": [
+        "glowstone",
+        "hell",
+        "light"
+      ]
+    },
+    "gold_block.png": {
+      "name": "Gold Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/gold_block.png",
+      "tags": [
+        "gold",
+        "block",
+        "storage"
+      ]
+    },
+    "gold_chest_front.png": {
+      "name": "Gold Chest Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/gold_chest_front.png",
+      "tags": [
+        "gold",
+        "chest",
+        "front",
+        "storage"
+      ]
+    },
+    "gold_chest_side.png": {
+      "name": "Gold Chest Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/gold_chest_side.png",
+      "tags": [
+        "gold",
+        "chest",
+        "side",
+        "storage"
+      ]
+    },
+    "gold_chest_top.png": {
+      "name": "Gold Chest Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/gold_chest_top.png",
+      "tags": [
+        "gold",
+        "chest",
+        "top",
+        "storage"
+      ]
+    },
+    "gold_ore.png": {
+      "name": "Gold Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/gold_ore.png",
+      "tags": [
+        "gold",
+        "ore"
+      ]
+    },
+    "grass_path_side.png": {
+      "name": "Grass Path Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_path_side.png",
+      "tags": [
+        "grass",
+        "path",
+        "side",
+        "earth"
+      ]
+    },
+    "grass_path_top.png": {
+      "name": "Grass Path Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_path_top.png",
+      "tags": [
+        "grass",
+        "path",
+        "top",
+        "earth"
+      ]
+    },
+    "grass_side.png": {
+      "name": "Grass Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_side.png",
+      "tags": [
+        "grass",
+        "side",
+        "earth"
+      ]
+    },
+    "grass_side_overlay.png": {
+      "name": "Grass Side Overlay",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_side_overlay.png",
+      "tags": [
+        "grass",
+        "side",
+        "overlay",
+        "earth"
+      ]
+    },
+    "grass_side_snowed-55.png": {
+      "name": "Grass Side Snowed 55",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_side_snowed-55.png",
+      "tags": [
+        "grass",
+        "side",
+        "snowed",
+        "earth"
+      ]
+    },
+    "grass_side_snowed.png": {
+      "name": "Grass Side Snowed",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_side_snowed.png",
+      "tags": [
+        "grass",
+        "side",
+        "snowed",
+        "earth"
+      ]
+    },
+    "grass_top 1.png": {
+      "name": "Grass Top 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_top%201.png",
+      "tags": [
+        "grass",
+        "top",
+        "earth"
+      ]
+    },
+    "grass_top.png": {
+      "name": "Grass Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/grass_top.png",
+      "tags": [
+        "grass",
+        "top",
+        "earth"
+      ]
+    },
+    "gravel.png": {
+      "name": "Gravel",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/gravel.png",
+      "tags": [
+        "gravel",
+        "earth"
+      ]
+    },
+    "hardened_clay.png": {
+      "name": "Hardened Clay",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay.png",
+      "tags": [
+        "hardened",
+        "clay"
+      ]
+    },
+    "hardened_clay_stained_black.png": {
+      "name": "Hardened Clay Stained Black",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_black.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "black",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_blue.png": {
+      "name": "Hardened Clay Stained Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_blue.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "blue",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_brown.png": {
+      "name": "Hardened Clay Stained Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_brown.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "brown",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_cyan.png": {
+      "name": "Hardened Clay Stained Cyan",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_cyan.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "cyan",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_gray.png": {
+      "name": "Hardened Clay Stained Gray",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_gray.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "gray",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_green.png": {
+      "name": "Hardened Clay Stained Green",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_green.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "green",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_light_blue.png": {
+      "name": "Hardened Clay Stained Light Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_light_blue.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "light",
+        "blue",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_lime.png": {
+      "name": "Hardened Clay Stained Lime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_lime.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "lime",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_magenta.png": {
+      "name": "Hardened Clay Stained Magenta",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_magenta.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "magenta",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_orange.png": {
+      "name": "Hardened Clay Stained Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_orange.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "orange",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_pink.png": {
+      "name": "Hardened Clay Stained Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_pink.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "pink",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_purple.png": {
+      "name": "Hardened Clay Stained Purple",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_purple.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "purple",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_red.png": {
+      "name": "Hardened Clay Stained Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_red.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "red",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_silver.png": {
+      "name": "Hardened Clay Stained Silver",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_silver.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "silver",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_white.png": {
+      "name": "Hardened Clay Stained White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_white.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "white",
+        "colored"
+      ]
+    },
+    "hardened_clay_stained_yellow.png": {
+      "name": "Hardened Clay Stained Yellow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hardened_clay_stained_yellow.png",
+      "tags": [
+        "hardened",
+        "clay",
+        "stained",
+        "yellow",
+        "colored"
+      ]
+    },
+    "hay_block_side.png": {
+      "name": "Hay Block Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hay_block_side.png",
+      "tags": [
+        "hay",
+        "block",
+        "side"
+      ]
+    },
+    "hay_block_top.png": {
+      "name": "Hay Block Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hay_block_top.png",
+      "tags": [
+        "hay",
+        "block",
+        "top"
+      ]
+    },
+    "hopper_inside.png": {
+      "name": "Hopper Inside",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hopper_inside.png",
+      "tags": [
+        "hopper",
+        "inside",
+        "utility"
+      ]
+    },
+    "hopper_outside.png": {
+      "name": "Hopper Outside",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hopper_outside.png",
+      "tags": [
+        "hopper",
+        "outside",
+        "utility"
+      ]
+    },
+    "hopper_top.png": {
+      "name": "Hopper Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/hopper_top.png",
+      "tags": [
+        "hopper",
+        "top",
+        "utility"
+      ]
+    },
+    "ice.png": {
+      "name": "Ice",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/ice.png",
+      "tags": [
+        "ice"
+      ]
+    },
+    "ice_packed.png": {
+      "name": "Ice Packed",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/ice_packed.png",
+      "tags": [
+        "ice",
+        "packed"
+      ]
+    },
+    "iron_bars.png": {
+      "name": "Iron Bars",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/iron_bars.png",
+      "tags": [
+        "iron",
+        "bars",
+        "metal"
+      ]
+    },
+    "iron_block.png": {
+      "name": "Iron Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/iron_block.png",
+      "tags": [
+        "iron",
+        "block",
+        "storage",
+        "metal"
+      ]
+    },
+    "iron_chest_front.png": {
+      "name": "Iron Chest Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/iron_chest_front.png",
+      "tags": [
+        "iron",
+        "chest",
+        "front",
+        "storage"
+      ]
+    },
+    "iron_chest_side.png": {
+      "name": "Iron Chest Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/iron_chest_side.png",
+      "tags": [
+        "iron",
+        "chest",
+        "side",
+        "storage"
+      ]
+    },
+    "iron_chest_top.png": {
+      "name": "Iron Chest Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/iron_chest_top.png",
+      "tags": [
+        "iron",
+        "chest",
+        "top",
+        "storage"
+      ]
+    },
+    "iron_ore.png": {
+      "name": "Iron Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/iron_ore.png",
+      "tags": [
+        "iron",
+        "ore"
+      ]
+    },
+    "iron_trapdoor.png": {
+      "name": "Iron Trapdoor",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/iron_trapdoor.png",
+      "tags": [
+        "iron",
+        "trapdoor",
+        "metal"
+      ]
+    },
+    "itemframe_background.png": {
+      "name": "Itemframe Background",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/itemframe_background.png",
+      "tags": [
+        "itemframe",
+        "background",
+        "utility"
+      ]
+    },
+    "jukebox_side.png": {
+      "name": "Jukebox Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/jukebox_side.png",
+      "tags": [
+        "jukebox",
+        "side",
+        "utility"
+      ]
+    },
+    "jukebox_top.png": {
+      "name": "Jukebox Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/jukebox_top.png",
+      "tags": [
+        "jukebox",
+        "top",
+        "utility"
+      ]
+    },
+    "ladder.png": {
+      "name": "Ladder",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/ladder.png",
+      "tags": [
+        "ladder",
+        "wood"
+      ]
+    },
+    "lapis_block.png": {
+      "name": "Lapis Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/lapis_block.png",
+      "tags": [
+        "lapis",
+        "block",
+        "storage"
+      ]
+    },
+    "lapis_ore.png": {
+      "name": "Lapis Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/lapis_ore.png",
+      "tags": [
+        "lapis",
+        "ore"
+      ]
+    },
+    "lava.png": {
+      "name": "Lava",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/lava.png",
+      "tags": [
+        "lava",
+        "liquid"
+      ]
+    },
+    "lava_flow.png": {
+      "name": "Lava Flow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/lava_flow.png",
+      "tags": [
+        "lava",
+        "flow",
+        "liquid"
+      ]
+    },
+    "lava_still.png": {
+      "name": "Lava Still",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/lava_still.png",
+      "tags": [
+        "lava",
+        "still",
+        "liquid"
+      ]
+    },
+    "leaves_acacia.png": {
+      "name": "Leaves Acacia",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_acacia.png",
+      "tags": [
+        "leaves",
+        "acacia",
+        "plant"
+      ]
+    },
+    "leaves_acacia_opaque.png": {
+      "name": "Leaves Acacia Opaque",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_acacia_opaque.png",
+      "tags": [
+        "leaves",
+        "acacia",
+        "opaque",
+        "plant"
+      ]
+    },
+    "leaves_big_oak.png": {
+      "name": "Leaves Big Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_big_oak.png",
+      "tags": [
+        "leaves",
+        "big",
+        "oak",
+        "plant"
+      ]
+    },
+    "leaves_big_oak_opaque.png": {
+      "name": "Leaves Big Oak Opaque",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_big_oak_opaque.png",
+      "tags": [
+        "leaves",
+        "big",
+        "oak",
+        "opaque",
+        "plant"
+      ]
+    },
+    "leaves_birch.png": {
+      "name": "Leaves Birch",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_birch.png",
+      "tags": [
+        "leaves",
+        "birch",
+        "plant"
+      ]
+    },
+    "leaves_birch_opaque.png": {
+      "name": "Leaves Birch Opaque",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_birch_opaque.png",
+      "tags": [
+        "leaves",
+        "birch",
+        "opaque",
+        "plant"
+      ]
+    },
+    "leaves_jungle.png": {
+      "name": "Leaves Jungle",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_jungle.png",
+      "tags": [
+        "leaves",
+        "jungle",
+        "plant"
+      ]
+    },
+    "leaves_jungle_opaque.png": {
+      "name": "Leaves Jungle Opaque",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_jungle_opaque.png",
+      "tags": [
+        "leaves",
+        "jungle",
+        "opaque",
+        "plant"
+      ]
+    },
+    "leaves_oak.png": {
+      "name": "Leaves Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_oak.png",
+      "tags": [
+        "leaves",
+        "oak",
+        "plant"
+      ]
+    },
+    "leaves_oak_opaque.png": {
+      "name": "Leaves Oak Opaque",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_oak_opaque.png",
+      "tags": [
+        "leaves",
+        "oak",
+        "opaque",
+        "plant"
+      ]
+    },
+    "leaves_spruce.png": {
+      "name": "Leaves Spruce",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_spruce.png",
+      "tags": [
+        "leaves",
+        "spruce",
+        "plant"
+      ]
+    },
+    "leaves_spruce_opaque.png": {
+      "name": "Leaves Spruce Opaque",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/leaves_spruce_opaque.png",
+      "tags": [
+        "leaves",
+        "spruce",
+        "opaque",
+        "plant"
+      ]
+    },
+    "lever.png": {
+      "name": "Lever",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/lever.png",
+      "tags": [
+        "lever",
+        "redstone"
+      ]
+    },
+    "log_acacia.png": {
+      "name": "Log Acacia",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_acacia.png",
+      "tags": [
+        "log",
+        "acacia",
+        "wood"
+      ]
+    },
+    "log_acacia_top.png": {
+      "name": "Log Acacia Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_acacia_top.png",
+      "tags": [
+        "log",
+        "acacia",
+        "top",
+        "wood"
+      ]
+    },
+    "log_big_oak.png": {
+      "name": "Log Big Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_big_oak.png",
+      "tags": [
+        "log",
+        "big",
+        "oak",
+        "wood"
+      ]
+    },
+    "log_big_oak_top.png": {
+      "name": "Log Big Oak Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_big_oak_top.png",
+      "tags": [
+        "log",
+        "big",
+        "oak",
+        "top",
+        "wood"
+      ]
+    },
+    "log_birch.png": {
+      "name": "Log Birch",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_birch.png",
+      "tags": [
+        "log",
+        "birch",
+        "wood"
+      ]
+    },
+    "log_birch_top.png": {
+      "name": "Log Birch Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_birch_top.png",
+      "tags": [
+        "log",
+        "birch",
+        "top",
+        "wood"
+      ]
+    },
+    "log_jungle.png": {
+      "name": "Log Jungle",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_jungle.png",
+      "tags": [
+        "log",
+        "jungle",
+        "wood"
+      ]
+    },
+    "log_jungle2.png": {
+      "name": "Log Jungle2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_jungle2.png",
+      "tags": [
+        "log",
+        "jungle2",
+        "wood"
+      ]
+    },
+    "log_jungle_top.png": {
+      "name": "Log Jungle Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_jungle_top.png",
+      "tags": [
+        "log",
+        "jungle",
+        "top",
+        "wood"
+      ]
+    },
+    "log_oak.png": {
+      "name": "Log Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_oak.png",
+      "tags": [
+        "log",
+        "oak",
+        "wood"
+      ]
+    },
+    "log_oak_top.png": {
+      "name": "Log Oak Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_oak_top.png",
+      "tags": [
+        "log",
+        "oak",
+        "top",
+        "wood"
+      ]
+    },
+    "log_spruce.png": {
+      "name": "Log Spruce",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_spruce.png",
+      "tags": [
+        "log",
+        "spruce",
+        "wood"
+      ]
+    },
+    "log_spruce_top.png": {
+      "name": "Log Spruce Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/log_spruce_top.png",
+      "tags": [
+        "log",
+        "spruce",
+        "top",
+        "wood"
+      ]
+    },
+    "magma.png": {
+      "name": "Magma",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/magma.png",
+      "tags": [
+        "magma",
+        "nether"
+      ]
+    },
+    "melon_side.png": {
+      "name": "Melon Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/melon_side.png",
+      "tags": [
+        "melon",
+        "side",
+        "food"
+      ]
+    },
+    "melon_stem_connected.png": {
+      "name": "Melon Stem Connected",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/melon_stem_connected.png",
+      "tags": [
+        "melon",
+        "stem",
+        "connected",
+        "crop"
+      ]
+    },
+    "melon_stem_disconnected.png": {
+      "name": "Melon Stem Disconnected",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/melon_stem_disconnected.png",
+      "tags": [
+        "melon",
+        "stem",
+        "disconnected",
+        "crop"
+      ]
+    },
+    "melon_top.png": {
+      "name": "Melon Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/melon_top.png",
+      "tags": [
+        "melon",
+        "top",
+        "food"
+      ]
+    },
+    "mob_spawner.png": {
+      "name": "Mob Spawner",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mob_spawner.png",
+      "tags": [
+        "mob",
+        "spawner",
+        "utility"
+      ]
+    },
+    "mushroom_block_inside.png": {
+      "name": "Mushroom Block Inside",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mushroom_block_inside.png",
+      "tags": [
+        "mushroom",
+        "block",
+        "inside"
+      ]
+    },
+    "mushroom_block_skin_brown.png": {
+      "name": "Mushroom Block Skin Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mushroom_block_skin_brown.png",
+      "tags": [
+        "mushroom",
+        "block",
+        "skin",
+        "brown"
+      ]
+    },
+    "mushroom_block_skin_red.png": {
+      "name": "Mushroom Block Skin Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mushroom_block_skin_red.png",
+      "tags": [
+        "mushroom",
+        "block",
+        "skin",
+        "red"
+      ]
+    },
+    "mushroom_block_skin_stem.png": {
+      "name": "Mushroom Block Skin Stem",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mushroom_block_skin_stem.png",
+      "tags": [
+        "mushroom",
+        "block",
+        "skin",
+        "stem"
+      ]
+    },
+    "mushroom_brown.png": {
+      "name": "Mushroom Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mushroom_brown.png",
+      "tags": [
+        "mushroom",
+        "brown",
+        "plant"
+      ]
+    },
+    "mushroom_red.png": {
+      "name": "Mushroom Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mushroom_red.png",
+      "tags": [
+        "mushroom",
+        "red",
+        "plant"
+      ]
+    },
+    "mycelium_side.png": {
+      "name": "Mycelium Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mycelium_side.png",
+      "tags": [
+        "mycelium",
+        "side",
+        "earth"
+      ]
+    },
+    "mycelium_top.png": {
+      "name": "Mycelium Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/mycelium_top.png",
+      "tags": [
+        "mycelium",
+        "top",
+        "earth"
+      ]
+    },
+    "nest_01.png": {
+      "name": "Nest 01",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/nest_01.png",
+      "tags": [
+        "nest"
+      ]
+    },
+    "nest_02.png": {
+      "name": "Nest 02",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/nest_02.png",
+      "tags": [
+        "nest"
+      ]
+    },
+    "nether_brick.png": {
+      "name": "Nether Brick",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/nether_brick.png",
+      "tags": [
+        "nether",
+        "brick"
+      ]
+    },
+    "nether_wart_block.png": {
+      "name": "Nether Wart Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/nether_wart_block.png",
+      "tags": [
+        "nether",
+        "wart",
+        "block"
+      ]
+    },
+    "nether_wart_stage_0.png": {
+      "name": "Nether Wart Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/nether_wart_stage_0.png",
+      "tags": [
+        "nether",
+        "wart",
+        "stage",
+        "crop"
+      ]
+    },
+    "nether_wart_stage_1.png": {
+      "name": "Nether Wart Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/nether_wart_stage_1.png",
+      "tags": [
+        "nether",
+        "wart",
+        "stage",
+        "crop"
+      ]
+    },
+    "nether_wart_stage_2.png": {
+      "name": "Nether Wart Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/nether_wart_stage_2.png",
+      "tags": [
+        "nether",
+        "wart",
+        "stage",
+        "crop"
+      ]
+    },
+    "netherrack.png": {
+      "name": "Netherrack",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/netherrack.png",
+      "tags": [
+        "netherrack",
+        "nether"
+      ]
+    },
+    "normal_chest_front.png": {
+      "name": "Normal Chest Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/normal_chest_front.png",
+      "tags": [
+        "normal",
+        "chest",
+        "front",
+        "storage"
+      ]
+    },
+    "normal_chest_side.png": {
+      "name": "Normal Chest Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/normal_chest_side.png",
+      "tags": [
+        "normal",
+        "chest",
+        "side",
+        "storage"
+      ]
+    },
+    "normal_chest_top.png": {
+      "name": "Normal Chest Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/normal_chest_top.png",
+      "tags": [
+        "normal",
+        "chest",
+        "top",
+        "storage"
+      ]
+    },
+    "noteblock.png": {
+      "name": "Noteblock",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/noteblock.png",
+      "tags": [
+        "noteblock",
+        "redstone",
+        "utility"
+      ]
+    },
+    "observer_back.png": {
+      "name": "Observer Back",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/observer_back.png",
+      "tags": [
+        "observer",
+        "back",
+        "redstone"
+      ]
+    },
+    "observer_back_lit.png": {
+      "name": "Observer Back Lit",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/observer_back_lit.png",
+      "tags": [
+        "observer",
+        "back",
+        "lit",
+        "redstone"
+      ]
+    },
+    "observer_front.png": {
+      "name": "Observer Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/observer_front.png",
+      "tags": [
+        "observer",
+        "front",
+        "redstone"
+      ]
+    },
+    "observer_side.png": {
+      "name": "Observer Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/observer_side.png",
+      "tags": [
+        "observer",
+        "side",
+        "redstone"
+      ]
+    },
+    "observer_top.png": {
+      "name": "Observer Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/observer_top.png",
+      "tags": [
+        "observer",
+        "top",
+        "redstone"
+      ]
+    },
+    "obsidian.png": {
+      "name": "Obsidian",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/obsidian.png",
+      "tags": [
+        "obsidian",
+        "durable"
+      ]
+    },
+    "piston_bottom.png": {
+      "name": "Piston Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/piston_bottom.png",
+      "tags": [
+        "piston",
+        "bottom",
+        "redstone"
+      ]
+    },
+    "piston_inner.png": {
+      "name": "Piston Inner",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/piston_inner.png",
+      "tags": [
+        "piston",
+        "inner",
+        "redstone"
+      ]
+    },
+    "piston_side.png": {
+      "name": "Piston Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/piston_side.png",
+      "tags": [
+        "piston",
+        "side",
+        "redstone"
+      ]
+    },
+    "piston_top_normal.png": {
+      "name": "Piston Top Normal",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/piston_top_normal.png",
+      "tags": [
+        "piston",
+        "top",
+        "normal",
+        "redstone"
+      ]
+    },
+    "piston_top_sticky.png": {
+      "name": "Piston Top Sticky",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/piston_top_sticky.png",
+      "tags": [
+        "piston",
+        "top",
+        "sticky",
+        "redstone"
+      ]
+    },
+    "planks_acacia.png": {
+      "name": "Planks Acacia",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/planks_acacia.png",
+      "tags": [
+        "planks",
+        "acacia",
+        "wood"
+      ]
+    },
+    "planks_big_oak.png": {
+      "name": "Planks Big Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/planks_big_oak.png",
+      "tags": [
+        "planks",
+        "big",
+        "oak",
+        "wood"
+      ]
+    },
+    "planks_birch.png": {
+      "name": "Planks Birch",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/planks_birch.png",
+      "tags": [
+        "planks",
+        "birch",
+        "wood"
+      ]
+    },
+    "planks_jungle.png": {
+      "name": "Planks Jungle",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/planks_jungle.png",
+      "tags": [
+        "planks",
+        "jungle",
+        "wood"
+      ]
+    },
+    "planks_oak.png": {
+      "name": "Planks Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/planks_oak.png",
+      "tags": [
+        "planks",
+        "oak",
+        "wood"
+      ]
+    },
+    "planks_spruce.png": {
+      "name": "Planks Spruce",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/planks_spruce.png",
+      "tags": [
+        "planks",
+        "spruce",
+        "wood"
+      ]
+    },
+    "potatoes_stage_0.png": {
+      "name": "Potatoes Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/potatoes_stage_0.png",
+      "tags": [
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "potatoes_stage_1.png": {
+      "name": "Potatoes Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/potatoes_stage_1.png",
+      "tags": [
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "potatoes_stage_2.png": {
+      "name": "Potatoes Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/potatoes_stage_2.png",
+      "tags": [
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "potatoes_stage_3.png": {
+      "name": "Potatoes Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/potatoes_stage_3.png",
+      "tags": [
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "potatoes_stage_4.png": {
+      "name": "Potatoes Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/potatoes_stage_4.png",
+      "tags": [
+        "potatoes",
+        "stage",
+        "crop"
+      ]
+    },
+    "prismarine_bricks.png": {
+      "name": "Prismarine Bricks",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/prismarine_bricks.png",
+      "tags": [
+        "prismarine",
+        "bricks"
+      ]
+    },
+    "prismarine_dark.png": {
+      "name": "Prismarine Dark",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/prismarine_dark.png",
+      "tags": [
+        "prismarine",
+        "dark"
+      ]
+    },
+    "prismarine_rough.png": {
+      "name": "Prismarine Rough",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/prismarine_rough.png",
+      "tags": [
+        "prismarine",
+        "rough"
+      ]
+    },
+    "pumpkin_face_off.png": {
+      "name": "Pumpkin Face Off",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/pumpkin_face_off.png",
+      "tags": [
+        "pumpkin",
+        "face",
+        "off",
+        "food"
+      ]
+    },
+    "pumpkin_face_on.png": {
+      "name": "Pumpkin Face On",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/pumpkin_face_on.png",
+      "tags": [
+        "pumpkin",
+        "face",
+        "on",
+        "food"
+      ]
+    },
+    "pumpkin_side.png": {
+      "name": "Pumpkin Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/pumpkin_side.png",
+      "tags": [
+        "pumpkin",
+        "side",
+        "food"
+      ]
+    },
+    "pumpkin_stem_connected.png": {
+      "name": "Pumpkin Stem Connected",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/pumpkin_stem_connected.png",
+      "tags": [
+        "pumpkin",
+        "stem",
+        "connected",
+        "crop"
+      ]
+    },
+    "pumpkin_stem_disconnected.png": {
+      "name": "Pumpkin Stem Disconnected",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/pumpkin_stem_disconnected.png",
+      "tags": [
+        "pumpkin",
+        "stem",
+        "disconnected",
+        "crop"
+      ]
+    },
+    "pumpkin_top.png": {
+      "name": "Pumpkin Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/pumpkin_top.png",
+      "tags": [
+        "pumpkin",
+        "top",
+        "food"
+      ]
+    },
+    "purpur_block.png": {
+      "name": "Purpur Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/purpur_block.png",
+      "tags": [
+        "purpur",
+        "block",
+        "end"
+      ]
+    },
+    "purpur_pillar.png": {
+      "name": "Purpur Pillar",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/purpur_pillar.png",
+      "tags": [
+        "purpur",
+        "pillar",
+        "end"
+      ]
+    },
+    "purpur_pillar_top.png": {
+      "name": "Purpur Pillar Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/purpur_pillar_top.png",
+      "tags": [
+        "purpur",
+        "pillar",
+        "top",
+        "end"
+      ]
+    },
+    "quartz_block_bottom.png": {
+      "name": "Quartz Block Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_bottom.png",
+      "tags": [
+        "quartz",
+        "block",
+        "bottom",
+        "nether"
+      ]
+    },
+    "quartz_block_chiseled.png": {
+      "name": "Quartz Block Chiseled",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_chiseled.png",
+      "tags": [
+        "quartz",
+        "block",
+        "chiseled",
+        "nether"
+      ]
+    },
+    "quartz_block_chiseled_top.png": {
+      "name": "Quartz Block Chiseled Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_chiseled_top.png",
+      "tags": [
+        "quartz",
+        "block",
+        "chiseled",
+        "top",
+        "nether"
+      ]
+    },
+    "quartz_block_lines.png": {
+      "name": "Quartz Block Lines",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_lines.png",
+      "tags": [
+        "quartz",
+        "block",
+        "lines",
+        "nether"
+      ]
+    },
+    "quartz_block_lines_top.png": {
+      "name": "Quartz Block Lines Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_lines_top.png",
+      "tags": [
+        "quartz",
+        "block",
+        "lines",
+        "top",
+        "nether"
+      ]
+    },
+    "quartz_block_side-200.png": {
+      "name": "Quartz Block Side 200",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_side-200.png",
+      "tags": [
+        "quartz",
+        "block",
+        "side",
+        "nether"
+      ]
+    },
+    "quartz_block_side.png": {
+      "name": "Quartz Block Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_side.png",
+      "tags": [
+        "quartz",
+        "block",
+        "side",
+        "nether"
+      ]
+    },
+    "quartz_block_top-05.png": {
+      "name": "Quartz Block Top 05",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_top-05.png",
+      "tags": [
+        "quartz",
+        "block",
+        "top",
+        "nether"
+      ]
+    },
+    "quartz_block_top-201.png": {
+      "name": "Quartz Block Top 201",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_top-201.png",
+      "tags": [
+        "quartz",
+        "block",
+        "top",
+        "nether"
+      ]
+    },
+    "quartz_block_top.png": {
+      "name": "Quartz Block Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_block_top.png",
+      "tags": [
+        "quartz",
+        "block",
+        "top",
+        "nether"
+      ]
+    },
+    "quartz_ore.png": {
+      "name": "Quartz Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/quartz_ore.png",
+      "tags": [
+        "quartz",
+        "ore",
+        "nether"
+      ]
+    },
+    "rail_activator.png": {
+      "name": "Rail Activator",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_activator.png",
+      "tags": [
+        "rail",
+        "activator",
+        "redstone"
+      ]
+    },
+    "rail_activator_powered.png": {
+      "name": "Rail Activator Powered",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_activator_powered.png",
+      "tags": [
+        "rail",
+        "activator",
+        "powered",
+        "redstone"
+      ]
+    },
+    "rail_detector.png": {
+      "name": "Rail Detector",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_detector.png",
+      "tags": [
+        "rail",
+        "detector",
+        "redstone"
+      ]
+    },
+    "rail_detector_powered.png": {
+      "name": "Rail Detector Powered",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_detector_powered.png",
+      "tags": [
+        "rail",
+        "detector",
+        "powered",
+        "redstone"
+      ]
+    },
+    "rail_golden.png": {
+      "name": "Rail Golden",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_golden.png",
+      "tags": [
+        "rail",
+        "golden",
+        "redstone"
+      ]
+    },
+    "rail_golden_powered.png": {
+      "name": "Rail Golden Powered",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_golden_powered.png",
+      "tags": [
+        "rail",
+        "golden",
+        "powered",
+        "redstone"
+      ]
+    },
+    "rail_normal.png": {
+      "name": "Rail Normal",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_normal.png",
+      "tags": [
+        "rail",
+        "normal"
+      ]
+    },
+    "rail_normal_turned.png": {
+      "name": "Rail Normal Turned",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/rail_normal_turned.png",
+      "tags": [
+        "rail",
+        "normal",
+        "turned"
+      ]
+    },
+    "red_nether_brick.png": {
+      "name": "Red Nether Brick",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/red_nether_brick.png",
+      "tags": [
+        "red",
+        "nether",
+        "brick"
+      ]
+    },
+    "red_sand.png": {
+      "name": "Red Sand",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/red_sand.png",
+      "tags": [
+        "red",
+        "sand",
+        "earth"
+      ]
+    },
+    "red_sandstone_bottom.png": {
+      "name": "Red Sandstone Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/red_sandstone_bottom.png",
+      "tags": [
+        "red",
+        "sandstone",
+        "bottom"
+      ]
+    },
+    "red_sandstone_carved.png": {
+      "name": "Red Sandstone Carved",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/red_sandstone_carved.png",
+      "tags": [
+        "red",
+        "sandstone",
+        "carved"
+      ]
+    },
+    "red_sandstone_normal.png": {
+      "name": "Red Sandstone Normal",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/red_sandstone_normal.png",
+      "tags": [
+        "red",
+        "sandstone",
+        "normal"
+      ]
+    },
+    "red_sandstone_smooth.png": {
+      "name": "Red Sandstone Smooth",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/red_sandstone_smooth.png",
+      "tags": [
+        "red",
+        "sandstone",
+        "smooth"
+      ]
+    },
+    "red_sandstone_top.png": {
+      "name": "Red Sandstone Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/red_sandstone_top.png",
+      "tags": [
+        "red",
+        "sandstone",
+        "top"
+      ]
+    },
+    "redstone_block.png": {
+      "name": "Redstone Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_block.png",
+      "tags": [
+        "redstone",
+        "block",
+        "storage"
+      ]
+    },
+    "redstone_dust_cross.png": {
+      "name": "Redstone Dust Cross",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_cross.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "cross"
+      ]
+    },
+    "redstone_dust_cross_overlay.png": {
+      "name": "Redstone Dust Cross Overlay",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_cross_overlay.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "cross",
+        "overlay"
+      ]
+    },
+    "redstone_dust_dot.png": {
+      "name": "Redstone Dust Dot",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_dot.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "dot"
+      ]
+    },
+    "redstone_dust_line.png": {
+      "name": "Redstone Dust Line",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_line.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "line"
+      ]
+    },
+    "redstone_dust_line0.png": {
+      "name": "Redstone Dust Line0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_line0.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "line0"
+      ]
+    },
+    "redstone_dust_line1.png": {
+      "name": "Redstone Dust Line1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_line1.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "line1"
+      ]
+    },
+    "redstone_dust_line_overlay.png": {
+      "name": "Redstone Dust Line Overlay",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_line_overlay.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "line",
+        "overlay"
+      ]
+    },
+    "redstone_dust_overlay.png": {
+      "name": "Redstone Dust Overlay",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_dust_overlay.png",
+      "tags": [
+        "redstone",
+        "dust",
+        "overlay"
+      ]
+    },
+    "redstone_lamp_off.png": {
+      "name": "Redstone Lamp Off",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_lamp_off.png",
+      "tags": [
+        "redstone",
+        "lamp",
+        "off",
+        "light"
+      ]
+    },
+    "redstone_lamp_on.png": {
+      "name": "Redstone Lamp On",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_lamp_on.png",
+      "tags": [
+        "redstone",
+        "lamp",
+        "on",
+        "light"
+      ]
+    },
+    "redstone_lamp_on_animoff.png": {
+      "name": "Redstone Lamp On Animoff",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_lamp_on_animoff.png",
+      "tags": [
+        "redstone",
+        "lamp",
+        "on",
+        "animoff",
+        "light"
+      ]
+    },
+    "redstone_ore.png": {
+      "name": "Redstone Ore",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_ore.png",
+      "tags": [
+        "redstone",
+        "ore"
+      ]
+    },
+    "redstone_torch_off.png": {
+      "name": "Redstone Torch Off",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_torch_off.png",
+      "tags": [
+        "redstone",
+        "torch",
+        "off"
+      ]
+    },
+    "redstone_torch_on.png": {
+      "name": "Redstone Torch On",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/redstone_torch_on.png",
+      "tags": [
+        "redstone",
+        "torch",
+        "on"
+      ]
+    },
+    "reeds.png": {
+      "name": "Reeds",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/reeds.png",
+      "tags": [
+        "reeds",
+        "plant",
+        "crop"
+      ]
+    },
+    "repeater_off.png": {
+      "name": "Repeater Off",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/repeater_off.png",
+      "tags": [
+        "repeater",
+        "off",
+        "redstone"
+      ]
+    },
+    "repeater_on.png": {
+      "name": "Repeater On",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/repeater_on.png",
+      "tags": [
+        "repeater",
+        "on",
+        "redstone"
+      ]
+    },
+    "repeating_command_block_back.png": {
+      "name": "Repeating Command Block Back",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/repeating_command_block_back.png",
+      "tags": [
+        "repeating",
+        "command",
+        "block",
+        "back",
+        "utility"
+      ]
+    },
+    "repeating_command_block_conditional.png": {
+      "name": "Repeating Command Block Conditional",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/repeating_command_block_conditional.png",
+      "tags": [
+        "repeating",
+        "command",
+        "block",
+        "conditional",
+        "utility"
+      ]
+    },
+    "repeating_command_block_front.png": {
+      "name": "Repeating Command Block Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/repeating_command_block_front.png",
+      "tags": [
+        "repeating",
+        "command",
+        "block",
+        "front",
+        "utility"
+      ]
+    },
+    "repeating_command_block_side.png": {
+      "name": "Repeating Command Block Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/repeating_command_block_side.png",
+      "tags": [
+        "repeating",
+        "command",
+        "block",
+        "side",
+        "utility"
+      ]
+    },
+    "road_carpet.png": {
+      "name": "Road Carpet",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/road_carpet.png",
+      "tags": [
+        "road",
+        "carpet"
+      ]
+    },
+    "sand.png": {
+      "name": "Sand",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sand.png",
+      "tags": [
+        "sand",
+        "earth"
+      ]
+    },
+    "sandstone_bottom.png": {
+      "name": "Sandstone Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sandstone_bottom.png",
+      "tags": [
+        "sandstone",
+        "bottom"
+      ]
+    },
+    "sandstone_carved.png": {
+      "name": "Sandstone Carved",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sandstone_carved.png",
+      "tags": [
+        "sandstone",
+        "carved"
+      ]
+    },
+    "sandstone_normal.png": {
+      "name": "Sandstone Normal",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sandstone_normal.png",
+      "tags": [
+        "sandstone",
+        "normal"
+      ]
+    },
+    "sandstone_smooth.png": {
+      "name": "Sandstone Smooth",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sandstone_smooth.png",
+      "tags": [
+        "sandstone",
+        "smooth"
+      ]
+    },
+    "sandstone_top.png": {
+      "name": "Sandstone Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sandstone_top.png",
+      "tags": [
+        "sandstone",
+        "top"
+      ]
+    },
+    "sapling_acacia.png": {
+      "name": "Sapling Acacia",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sapling_acacia.png",
+      "tags": [
+        "sapling",
+        "acacia",
+        "plant"
+      ]
+    },
+    "sapling_birch.png": {
+      "name": "Sapling Birch",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sapling_birch.png",
+      "tags": [
+        "sapling",
+        "birch",
+        "plant"
+      ]
+    },
+    "sapling_jungle.png": {
+      "name": "Sapling Jungle",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sapling_jungle.png",
+      "tags": [
+        "sapling",
+        "jungle",
+        "plant"
+      ]
+    },
+    "sapling_oak.png": {
+      "name": "Sapling Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sapling_oak.png",
+      "tags": [
+        "sapling",
+        "oak",
+        "plant"
+      ]
+    },
+    "sapling_roofed_oak.png": {
+      "name": "Sapling Roofed Oak",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sapling_roofed_oak.png",
+      "tags": [
+        "sapling",
+        "roofed",
+        "oak",
+        "plant"
+      ]
+    },
+    "sapling_spruce.png": {
+      "name": "Sapling Spruce",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sapling_spruce.png",
+      "tags": [
+        "sapling",
+        "spruce",
+        "plant"
+      ]
+    },
+    "sea_lantern.png": {
+      "name": "Sea Lantern",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sea_lantern.png",
+      "tags": [
+        "sea",
+        "lantern",
+        "light"
+      ]
+    },
+    "seeds_cabbage_stage_0.png": {
+      "name": "Seeds Cabbage Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_cabbage_stage_0.png",
+      "tags": [
+        "seeds",
+        "cabbage",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_cabbage_stage_1.png": {
+      "name": "Seeds Cabbage Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_cabbage_stage_1.png",
+      "tags": [
+        "seeds",
+        "cabbage",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_cabbage_stage_2.png": {
+      "name": "Seeds Cabbage Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_cabbage_stage_2.png",
+      "tags": [
+        "seeds",
+        "cabbage",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_cabbage_stage_3.png": {
+      "name": "Seeds Cabbage Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_cabbage_stage_3.png",
+      "tags": [
+        "seeds",
+        "cabbage",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_cabbage_stage_4.png": {
+      "name": "Seeds Cabbage Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_cabbage_stage_4.png",
+      "tags": [
+        "seeds",
+        "cabbage",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_cabbage_stage_5.png": {
+      "name": "Seeds Cabbage Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_cabbage_stage_5.png",
+      "tags": [
+        "seeds",
+        "cabbage",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_carrot_stage_0.png": {
+      "name": "Seeds Carrot Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_carrot_stage_0.png",
+      "tags": [
+        "seeds",
+        "carrot",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_carrot_stage_1.png": {
+      "name": "Seeds Carrot Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_carrot_stage_1.png",
+      "tags": [
+        "seeds",
+        "carrot",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_carrot_stage_2.png": {
+      "name": "Seeds Carrot Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_carrot_stage_2.png",
+      "tags": [
+        "seeds",
+        "carrot",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_carrot_stage_3.png": {
+      "name": "Seeds Carrot Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_carrot_stage_3.png",
+      "tags": [
+        "seeds",
+        "carrot",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_carrot_stage_4.png": {
+      "name": "Seeds Carrot Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_carrot_stage_4.png",
+      "tags": [
+        "seeds",
+        "carrot",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_carrot_stage_5.png": {
+      "name": "Seeds Carrot Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_carrot_stage_5.png",
+      "tags": [
+        "seeds",
+        "carrot",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_pea_stage_0.png": {
+      "name": "Seeds Pea Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_pea_stage_0.png",
+      "tags": [
+        "seeds",
+        "pea",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_pea_stage_1.png": {
+      "name": "Seeds Pea Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_pea_stage_1.png",
+      "tags": [
+        "seeds",
+        "pea",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_pea_stage_2.png": {
+      "name": "Seeds Pea Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_pea_stage_2.png",
+      "tags": [
+        "seeds",
+        "pea",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_pea_stage_3.png": {
+      "name": "Seeds Pea Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_pea_stage_3.png",
+      "tags": [
+        "seeds",
+        "pea",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_pea_stage_4.png": {
+      "name": "Seeds Pea Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_pea_stage_4.png",
+      "tags": [
+        "seeds",
+        "pea",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_pea_stage_5.png": {
+      "name": "Seeds Pea Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_pea_stage_5.png",
+      "tags": [
+        "seeds",
+        "pea",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_tomato_stage_0.png": {
+      "name": "Seeds Tomato Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_tomato_stage_0.png",
+      "tags": [
+        "seeds",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_tomato_stage_1.png": {
+      "name": "Seeds Tomato Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_tomato_stage_1.png",
+      "tags": [
+        "seeds",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_tomato_stage_2.png": {
+      "name": "Seeds Tomato Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_tomato_stage_2.png",
+      "tags": [
+        "seeds",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_tomato_stage_3.png": {
+      "name": "Seeds Tomato Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_tomato_stage_3.png",
+      "tags": [
+        "seeds",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_tomato_stage_4.png": {
+      "name": "Seeds Tomato Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_tomato_stage_4.png",
+      "tags": [
+        "seeds",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_tomato_stage_5.png": {
+      "name": "Seeds Tomato Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_tomato_stage_5.png",
+      "tags": [
+        "seeds",
+        "tomato",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_wheat1_stage_0.png": {
+      "name": "Seeds Wheat1 Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_wheat1_stage_0.png",
+      "tags": [
+        "seeds",
+        "wheat1",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_wheat1_stage_1.png": {
+      "name": "Seeds Wheat1 Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_wheat1_stage_1.png",
+      "tags": [
+        "seeds",
+        "wheat1",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_wheat1_stage_2.png": {
+      "name": "Seeds Wheat1 Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_wheat1_stage_2.png",
+      "tags": [
+        "seeds",
+        "wheat1",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_wheat1_stage_3.png": {
+      "name": "Seeds Wheat1 Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_wheat1_stage_3.png",
+      "tags": [
+        "seeds",
+        "wheat1",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_wheat1_stage_4.png": {
+      "name": "Seeds Wheat1 Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_wheat1_stage_4.png",
+      "tags": [
+        "seeds",
+        "wheat1",
+        "stage",
+        "crop"
+      ]
+    },
+    "seeds_wheat1_stage_5.png": {
+      "name": "Seeds Wheat1 Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/seeds_wheat1_stage_5.png",
+      "tags": [
+        "seeds",
+        "wheat1",
+        "stage",
+        "crop"
+      ]
+    },
+    "shulker_top_black.png": {
+      "name": "Shulker Top Black",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_black.png",
+      "tags": [
+        "shulker",
+        "top",
+        "black",
+        "colored"
+      ]
+    },
+    "shulker_top_blue.png": {
+      "name": "Shulker Top Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_blue.png",
+      "tags": [
+        "shulker",
+        "top",
+        "blue",
+        "colored"
+      ]
+    },
+    "shulker_top_brown.png": {
+      "name": "Shulker Top Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_brown.png",
+      "tags": [
+        "shulker",
+        "top",
+        "brown",
+        "colored"
+      ]
+    },
+    "shulker_top_cyan.png": {
+      "name": "Shulker Top Cyan",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_cyan.png",
+      "tags": [
+        "shulker",
+        "top",
+        "cyan",
+        "colored"
+      ]
+    },
+    "shulker_top_gray.png": {
+      "name": "Shulker Top Gray",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_gray.png",
+      "tags": [
+        "shulker",
+        "top",
+        "gray",
+        "colored"
+      ]
+    },
+    "shulker_top_green.png": {
+      "name": "Shulker Top Green",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_green.png",
+      "tags": [
+        "shulker",
+        "top",
+        "green",
+        "colored"
+      ]
+    },
+    "shulker_top_light_blue.png": {
+      "name": "Shulker Top Light Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_light_blue.png",
+      "tags": [
+        "shulker",
+        "top",
+        "light",
+        "blue",
+        "colored"
+      ]
+    },
+    "shulker_top_lime.png": {
+      "name": "Shulker Top Lime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_lime.png",
+      "tags": [
+        "shulker",
+        "top",
+        "lime",
+        "colored"
+      ]
+    },
+    "shulker_top_magenta.png": {
+      "name": "Shulker Top Magenta",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_magenta.png",
+      "tags": [
+        "shulker",
+        "top",
+        "magenta",
+        "colored"
+      ]
+    },
+    "shulker_top_orange.png": {
+      "name": "Shulker Top Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_orange.png",
+      "tags": [
+        "shulker",
+        "top",
+        "orange",
+        "colored"
+      ]
+    },
+    "shulker_top_pink.png": {
+      "name": "Shulker Top Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_pink.png",
+      "tags": [
+        "shulker",
+        "top",
+        "pink",
+        "colored"
+      ]
+    },
+    "shulker_top_purple.png": {
+      "name": "Shulker Top Purple",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_purple.png",
+      "tags": [
+        "shulker",
+        "top",
+        "purple",
+        "colored"
+      ]
+    },
+    "shulker_top_red.png": {
+      "name": "Shulker Top Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_red.png",
+      "tags": [
+        "shulker",
+        "top",
+        "red",
+        "colored"
+      ]
+    },
+    "shulker_top_silver.png": {
+      "name": "Shulker Top Silver",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_silver.png",
+      "tags": [
+        "shulker",
+        "top",
+        "silver",
+        "colored"
+      ]
+    },
+    "shulker_top_white.png": {
+      "name": "Shulker Top White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_white.png",
+      "tags": [
+        "shulker",
+        "top",
+        "white",
+        "colored"
+      ]
+    },
+    "shulker_top_yellow.png": {
+      "name": "Shulker Top Yellow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/shulker_top_yellow.png",
+      "tags": [
+        "shulker",
+        "top",
+        "yellow",
+        "colored"
+      ]
+    },
+    "silver_chest_front.png": {
+      "name": "Silver Chest Front",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/silver_chest_front.png",
+      "tags": [
+        "silver",
+        "chest",
+        "front",
+        "storage"
+      ]
+    },
+    "silver_chest_side.png": {
+      "name": "Silver Chest Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/silver_chest_side.png",
+      "tags": [
+        "silver",
+        "chest",
+        "side",
+        "storage"
+      ]
+    },
+    "silver_chest_top.png": {
+      "name": "Silver Chest Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/silver_chest_top.png",
+      "tags": [
+        "silver",
+        "chest",
+        "top",
+        "storage"
+      ]
+    },
+    "slime.png": {
+      "name": "Slime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/slime.png",
+      "tags": [
+        "slime"
+      ]
+    },
+    "slime_face.png": {
+      "name": "Slime Face",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/slime_face.png",
+      "tags": [
+        "slime",
+        "face"
+      ]
+    },
+    "snow.png": {
+      "name": "Snow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/snow.png",
+      "tags": [
+        "snow"
+      ]
+    },
+    "soul_sand.png": {
+      "name": "Soul Sand",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/soul_sand.png",
+      "tags": [
+        "soul",
+        "sand",
+        "nether"
+      ]
+    },
+    "sponge.png": {
+      "name": "Sponge",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sponge.png",
+      "tags": [
+        "sponge"
+      ]
+    },
+    "sponge_wet.png": {
+      "name": "Sponge Wet",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/sponge_wet.png",
+      "tags": [
+        "sponge",
+        "wet"
+      ]
+    },
+    "stone.png": {
+      "name": "Stone",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone.png",
+      "tags": [
+        "stone",
+        "building"
+      ]
+    },
+    "stone_andesite.png": {
+      "name": "Stone Andesite",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_andesite.png",
+      "tags": [
+        "stone",
+        "andesite",
+        "building"
+      ]
+    },
+    "stone_andesite_smooth.png": {
+      "name": "Stone Andesite Smooth",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_andesite_smooth.png",
+      "tags": [
+        "stone",
+        "andesite",
+        "smooth",
+        "building"
+      ]
+    },
+    "stone_andesite_smooth1.png": {
+      "name": "Stone Andesite Smooth1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_andesite_smooth1.png",
+      "tags": [
+        "stone",
+        "andesite",
+        "smooth1",
+        "building"
+      ]
+    },
+    "stone_diorite.png": {
+      "name": "Stone Diorite",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_diorite.png",
+      "tags": [
+        "stone",
+        "diorite",
+        "building"
+      ]
+    },
+    "stone_diorite_smooth.png": {
+      "name": "Stone Diorite Smooth",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_diorite_smooth.png",
+      "tags": [
+        "stone",
+        "diorite",
+        "smooth",
+        "building"
+      ]
+    },
+    "stone_granite.png": {
+      "name": "Stone Granite",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_granite.png",
+      "tags": [
+        "stone",
+        "granite",
+        "building"
+      ]
+    },
+    "stone_granite_smooth.png": {
+      "name": "Stone Granite Smooth",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_granite_smooth.png",
+      "tags": [
+        "stone",
+        "granite",
+        "smooth",
+        "building"
+      ]
+    },
+    "stone_slab_side.png": {
+      "name": "Stone Slab Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_slab_side.png",
+      "tags": [
+        "stone",
+        "slab",
+        "side"
+      ]
+    },
+    "stone_slab_top.png": {
+      "name": "Stone Slab Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stone_slab_top.png",
+      "tags": [
+        "stone",
+        "slab",
+        "top"
+      ]
+    },
+    "stonebrick.png": {
+      "name": "Stonebrick",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stonebrick.png",
+      "tags": [
+        "stonebrick",
+        "building"
+      ]
+    },
+    "stonebrick_carved.png": {
+      "name": "Stonebrick Carved",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stonebrick_carved.png",
+      "tags": [
+        "stonebrick",
+        "carved"
+      ]
+    },
+    "stonebrick_cracked.png": {
+      "name": "Stonebrick Cracked",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stonebrick_cracked.png",
+      "tags": [
+        "stonebrick",
+        "cracked"
+      ]
+    },
+    "stonebrick_mossy.png": {
+      "name": "Stonebrick Mossy",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/stonebrick_mossy.png",
+      "tags": [
+        "stonebrick",
+        "mossy"
+      ]
+    },
+    "structure_block.png": {
+      "name": "Structure Block",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/structure_block.png",
+      "tags": [
+        "structure",
+        "block",
+        "utility"
+      ]
+    },
+    "structure_block_corner.png": {
+      "name": "Structure Block Corner",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/structure_block_corner.png",
+      "tags": [
+        "structure",
+        "block",
+        "corner",
+        "utility"
+      ]
+    },
+    "structure_block_data.png": {
+      "name": "Structure Block Data",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/structure_block_data.png",
+      "tags": [
+        "structure",
+        "block",
+        "data",
+        "utility"
+      ]
+    },
+    "structure_block_load.png": {
+      "name": "Structure Block Load",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/structure_block_load.png",
+      "tags": [
+        "structure",
+        "block",
+        "load",
+        "utility"
+      ]
+    },
+    "structure_block_save.png": {
+      "name": "Structure Block Save",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/structure_block_save.png",
+      "tags": [
+        "structure",
+        "block",
+        "save",
+        "utility"
+      ]
+    },
+    "tallgrass.png": {
+      "name": "Tallgrass",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/tallgrass.png",
+      "tags": [
+        "tallgrass",
+        "plant"
+      ]
+    },
+    "tnt_bottom.png": {
+      "name": "Tnt Bottom",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/tnt_bottom.png",
+      "tags": [
+        "tnt",
+        "bottom",
+        "explosive"
+      ]
+    },
+    "tnt_side.png": {
+      "name": "Tnt Side",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/tnt_side.png",
+      "tags": [
+        "tnt",
+        "side",
+        "explosive"
+      ]
+    },
+    "tnt_top.png": {
+      "name": "Tnt Top",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/tnt_top.png",
+      "tags": [
+        "tnt",
+        "top",
+        "explosive"
+      ]
+    },
+    "torch_on.png": {
+      "name": "Torch On",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/torch_on.png",
+      "tags": [
+        "torch",
+        "on",
+        "light"
+      ]
+    },
+    "transparency.png": {
+      "name": "Transparency",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/transparency.png",
+      "tags": [
+        "transparency",
+        "utility"
+      ]
+    },
+    "trapdoor.png": {
+      "name": "Trapdoor",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/trapdoor.png",
+      "tags": [
+        "trapdoor",
+        "wood"
+      ]
+    },
+    "trip_wire.png": {
+      "name": "Trip Wire",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/trip_wire.png",
+      "tags": [
+        "trip",
+        "wire",
+        "redstone"
+      ]
+    },
+    "trip_wire_source.png": {
+      "name": "Trip Wire Source",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/trip_wire_source.png",
+      "tags": [
+        "trip",
+        "wire",
+        "source",
+        "redstone"
+      ]
+    },
+    "vine.png": {
+      "name": "Vine",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/vine.png",
+      "tags": [
+        "vine",
+        "plant"
+      ]
+    },
+    "water_flow.png": {
+      "name": "Water Flow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/water_flow.png",
+      "tags": [
+        "water",
+        "flow",
+        "liquid"
+      ]
+    },
+    "water_overlay.png": {
+      "name": "Water Overlay",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/water_overlay.png",
+      "tags": [
+        "water",
+        "overlay",
+        "liquid"
+      ]
+    },
+    "water_still.png": {
+      "name": "Water Still",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/water_still.png",
+      "tags": [
+        "water",
+        "still",
+        "liquid"
+      ]
+    },
+    "waterlily.png": {
+      "name": "Waterlily",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/waterlily.png",
+      "tags": [
+        "waterlily",
+        "plant"
+      ]
+    },
+    "web.png": {
+      "name": "Web",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/web.png",
+      "tags": [
+        "web"
+      ]
+    },
+    "wheat_stage_0.png": {
+      "name": "Wheat Stage 0",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_0.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_07.png": {
+      "name": "Wheat Stage 07",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_07.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_1.png": {
+      "name": "Wheat Stage 1",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_1.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_2.png": {
+      "name": "Wheat Stage 2",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_2.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_3.png": {
+      "name": "Wheat Stage 3",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_3.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_4.png": {
+      "name": "Wheat Stage 4",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_4.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_5.png": {
+      "name": "Wheat Stage 5",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_5.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_6.png": {
+      "name": "Wheat Stage 6",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_6.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wheat_stage_7.png": {
+      "name": "Wheat Stage 7",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wheat_stage_7.png",
+      "tags": [
+        "wheat",
+        "stage",
+        "crop"
+      ]
+    },
+    "wool_colored_black.png": {
+      "name": "Wool Colored Black",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_black.png",
+      "tags": [
+        "wool",
+        "colored",
+        "black"
+      ]
+    },
+    "wool_colored_blue.png": {
+      "name": "Wool Colored Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_blue.png",
+      "tags": [
+        "wool",
+        "colored",
+        "blue"
+      ]
+    },
+    "wool_colored_brown.png": {
+      "name": "Wool Colored Brown",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_brown.png",
+      "tags": [
+        "wool",
+        "colored",
+        "brown"
+      ]
+    },
+    "wool_colored_cyan.png": {
+      "name": "Wool Colored Cyan",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_cyan.png",
+      "tags": [
+        "wool",
+        "colored",
+        "cyan"
+      ]
+    },
+    "wool_colored_gray.png": {
+      "name": "Wool Colored Gray",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_gray.png",
+      "tags": [
+        "wool",
+        "colored",
+        "gray"
+      ]
+    },
+    "wool_colored_green.png": {
+      "name": "Wool Colored Green",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_green.png",
+      "tags": [
+        "wool",
+        "colored",
+        "green"
+      ]
+    },
+    "wool_colored_light_blue.png": {
+      "name": "Wool Colored Light Blue",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_light_blue.png",
+      "tags": [
+        "wool",
+        "colored",
+        "light",
+        "blue"
+      ]
+    },
+    "wool_colored_lime.png": {
+      "name": "Wool Colored Lime",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_lime.png",
+      "tags": [
+        "wool",
+        "colored",
+        "lime"
+      ]
+    },
+    "wool_colored_magenta.png": {
+      "name": "Wool Colored Magenta",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_magenta.png",
+      "tags": [
+        "wool",
+        "colored",
+        "magenta"
+      ]
+    },
+    "wool_colored_orange.png": {
+      "name": "Wool Colored Orange",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_orange.png",
+      "tags": [
+        "wool",
+        "colored",
+        "orange"
+      ]
+    },
+    "wool_colored_pink.png": {
+      "name": "Wool Colored Pink",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_pink.png",
+      "tags": [
+        "wool",
+        "colored",
+        "pink"
+      ]
+    },
+    "wool_colored_purple.png": {
+      "name": "Wool Colored Purple",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_purple.png",
+      "tags": [
+        "wool",
+        "colored",
+        "purple"
+      ]
+    },
+    "wool_colored_red.png": {
+      "name": "Wool Colored Red",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_red.png",
+      "tags": [
+        "wool",
+        "colored",
+        "red"
+      ]
+    },
+    "wool_colored_silver.png": {
+      "name": "Wool Colored Silver",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_silver.png",
+      "tags": [
+        "wool",
+        "colored",
+        "silver"
+      ]
+    },
+    "wool_colored_white.png": {
+      "name": "Wool Colored White",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_white.png",
+      "tags": [
+        "wool",
+        "colored",
+        "white"
+      ]
+    },
+    "wool_colored_yellow.png": {
+      "name": "Wool Colored Yellow",
+      "textureUrl": "https://cdn.jsdelivr.net/gh/itzst6v6/mineasset@blockman/wool_colored_yellow.png",
+      "tags": [
+        "wool",
+        "colored",
+        "yellow"
+      ]
+    }
+  }
+}
